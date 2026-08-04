@@ -264,6 +264,3 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=24&pause=3000&speed=45&deletingSpeed=8&color=FF3333&background=00000000&center=true&vCenter=true&width=700&lines=There+is+no+patch+for+human+stupidity%2C+but+there's+always+a+workaround." />
 </p>
 
-<img src="./ascii-skull2.gif" width="260" align="left" alt="ascii glitch animated" />
-<img src="./ascii-skull.gif" width="260" align="right" alt="ascii glitch animated" />
-<br clear="both" />
