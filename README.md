@@ -45,6 +45,63 @@
 
 ### 🛠️ Skills
 
+<details>
+<summary>🖥️ Fullstack Development — Frontend · Backend · Database · DevOps</summary>
+
+<br>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,python,php,go,git,linux,docker,shell&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,jquery,html,css,js,ts,php,laravel,nodejs,express,nestjs,django,fastapi,flask,go,spring,dotnet,python,java,kotlin,rust,c,cpp,cs,dart,mysql,postgres,sqlite,mongodb,redis,firebase,docker,kubernetes,aws,git,linux,graphql&theme=dark" />
 </p>
+
+**Languages:** JavaScript, TypeScript, Python, PHP, Java, Kotlin, Go, Rust, C, C++, C#, Dart, Pascal, Assembly
+
+**Frontend:** React, Next.js, Vue, Angular, Tailwind, Bootstrap, jQuery, HTML5, CSS3
+
+**Backend:** PHP, Laravel, CodeIgniter, Yii, Node.js, Express, NestJS, Django, FastAPI, Flask, Gin, Fiber, Spring Boot, .NET
+
+**Database & Big Data:** MySQL, PostgreSQL, SQLite, MongoDB, SQL Server, HBase, Hadoop, Apache Spark, Hive, Kafka, Sqoop, Pig
+
+**DevOps & Tools:** Docker, Jenkins, Git, Linux, Red Hat OpenShift, CI/CD, REST API, GraphQL, WebSocket
+
+**CMS & Platforms:** Odoo, Moodle, OpenStreetMap, React Leaflet, Android (Kotlin/Java)
+
+</details>
+
+<details>
+<summary>🛡️ Cybersecurity — Web Security · Network · Recon · Exploitation</summary>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux,python,postman,wireshark&theme=dark" />
+</p>
+
+**Web Security:** SQLi, XSS, SSRF, CSRF, IDOR, LFI/RFI, SSTI, XXE, RCE, Broken Access Control, Auth flaws, File Upload, Command Injection
+
+**Network Pentest:** Recon, enumeration, lateral movement, AD, privesc, SMB, WinRM, Impacket, CrackMapExec, Evil-WinRM
+
+**Recon & Enumeration:** Nmap, FFUF, Gobuster, Dirb, Dirbuster, subdomain enumeration, fingerprinting
+
+**Exploitation Tools:** Burp Suite, Metasploit, SQLMap, Hydra, John the Ripper, Hashcat, OWASP ZAP, evasion techniques
+
+</details>
+
+<details>
+<summary>📊 Data Science & Geospatial — Analytics · ML · Big Data · GIS</summary>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r&theme=dark" />
+</p>
+
+**Analysis & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, regression, classification, clustering, feature engineering
+
+**Big Data:** Hadoop, Apache Spark, Apache Kafka, Apache Hive, Apache Sqoop, Apache Pig, HBase
+
+**Statistics & Tools:** RStudio, MATLAB, SPSS, Excel, Web Scraping, Data Mining, Jupyter
+
+**Geospatial:** QGIS, ArcGIS, Geoserver, Geonode, ESA SNAP, OpenStreetMap, React Leaflet, spatial data processing
+
+</details>
