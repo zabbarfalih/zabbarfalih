@@ -8,12 +8,9 @@
 
 <br>
 
-```
-┌──(zabbarfalih㉿kali)-[~]
-└─$ cat about.txt
-```
-
-> Fullstack developer & red teamer. I build things, then break them, then build them better.
+<p align="center">
+  <img src="./terminal.gif" width="600" alt="terminal animation" />
+</p>
 
 ---
 
@@ -37,9 +34,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api?username=zabbarfalih&show_icons=true&include_all_commits=true&theme=dracula" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api?username=zabbarfalih&show_icons=true&include_all_commits=true&theme=default" />
-    <img alt="github stats" src="https://github-readme-stats-fast-ten-omega.vercel.app/api?username=zabbarfalih&show_icons=true&include_all_commits=true&theme=dracula" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api?username=zabbarfalih&show_icons=true&include_all_commits=true&hide=contribs&theme=dracula" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api?username=zabbarfalih&show_icons=true&include_all_commits=true&hide=contribs&theme=default" />
+    <img alt="github stats" src="https://github-readme-stats-fast-ten-omega.vercel.app/api?username=zabbarfalih&show_icons=true&include_all_commits=true&hide=contribs&theme=dracula" height="165" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&theme=dracula" />
@@ -63,7 +60,7 @@
 └─$ ls -la /usr/share/skills/
 ```
 
-**[+] Fullstack Development** — _Frontend · Backend · Database · DevOps_
+**[+] Fullstack Development:** _Frontend · Backend · Database · DevOps_
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,jquery,html,css,js,ts,php,laravel,nodejs,express,nestjs,django,fastapi,flask,go,spring,dotnet,python,java,kotlin,rust,c,cpp,cs,dart,mysql,postgres,sqlite,mongodb,redis,firebase,docker,kubernetes,aws,git,linux,graphql&theme=dark" />
@@ -78,7 +75,7 @@
 [*] CMS/Platform : Odoo, Moodle, OpenStreetMap, React Leaflet, Android (Kotlin/Java)
 ```
 
-**[+] Cybersecurity** — _Web Security · Network · Recon · Exploitation_
+**[+] Cybersecurity:** _Web Security · Network · Recon · Exploitation_
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali,linux,python,postman,wireshark&theme=dark" />
@@ -91,7 +88,7 @@
 [*] Exploitation      : Burp Suite, Metasploit, SQLMap, Hydra, John the Ripper, Hashcat, OWASP ZAP, evasion techniques
 ```
 
-**[+] Data Science & Geospatial** — _Analytics · ML · Big Data · GIS_
+**[+] Data Science & Geospatial:** _Analytics · ML · Big Data · GIS_
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r&theme=dark" />
@@ -113,6 +110,6 @@
 
 <div align="center">
 
-_"There is no patch for human stupidity — but there's always a workaround."_
+_"There is no patch for human stupidity, but there's always a workaround."_
 
 </div>
