@@ -2,7 +2,7 @@
 
 <img src="./ascii-avatar.gif" width="540" alt="ascii avatar animated" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF3333&background=0D1117&center=true&vCenter=true&width=520&lines=root%40kali%3A~%23+whoami;zabbarfalih;root%40kali%3A~%23+id;uid%3D0(root)+groups%3D0(redteam);Building+exploits%2C+not+excuses.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF3333&background=00000000&center=true&vCenter=true&width=520&lines=root%40kali%3A~%23+whoami;zabbarfalih;root%40kali%3A~%23+id;uid%3D0(root)+groups%3D0(redteam);Building+exploits%2C+not+excuses.)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,10 +14,9 @@
 
 ---
 
-```
-┌──(zabbarfalih㉿kali)-[~]
-└─$ ./contribution_snake.sh
-```
+<p align="center">
+  <img src="./terminal-snake.gif" width="500" alt="terminal snake command" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zabbarfalih/zabbarfalih/output/github-contribution-grid-snake-dark.svg" />
@@ -27,10 +26,9 @@
 
 ---
 
-```
-┌──(zabbarfalih㉿kali)-[~]
-└─$ nmap -sV --script=stats github.com/zabbarfalih
-```
+<p align="center">
+  <img src="./terminal-stats.gif" width="500" alt="terminal stats command" />
+</p>
 
 <p align="center">
   <picture>
@@ -55,10 +53,9 @@
 
 ---
 
-```
-┌──(zabbarfalih㉿kali)-[~]
-└─$ ls -la /usr/share/skills/
-```
+<p align="center">
+  <img src="./terminal-skills.gif" width="500" alt="terminal skills command" />
+</p>
 
 **[+] Fullstack Development:** _Frontend · Backend · Database · DevOps_
 
@@ -103,10 +100,9 @@
 
 ---
 
-```
-┌──(zabbarfalih㉿kali)-[~]
-└─$ exit
-```
+<p align="center">
+  <img src="./terminal-exit.gif" width="500" alt="terminal exit command" />
+</p>
 
 <div align="center">
 
