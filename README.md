@@ -10,8 +10,11 @@
 
 ### 🐍 Contribution Snake
 
-![snake animation](https://raw.githubusercontent.com/zabbarfalih/zabbarfalih/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![snake animation](https://raw.githubusercontent.com/zabbarfalih/zabbarfalih/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zabbarfalih/zabbarfalih/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zabbarfalih/zabbarfalih/output/github-contribution-grid-snake.svg" />
+  <img alt="github snake" src="https://raw.githubusercontent.com/zabbarfalih/zabbarfalih/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
