@@ -45,10 +45,7 @@
 
 ### 🛠️ Skills
 
-<details>
-<summary>🖥️ Fullstack Development — Frontend · Backend · Database · DevOps</summary>
-
-<br>
+#### 🖥️ Fullstack Development — Frontend · Backend · Database · DevOps
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,jquery,html,css,js,ts,php,laravel,nodejs,express,nestjs,django,fastapi,flask,go,spring,dotnet,python,java,kotlin,rust,c,cpp,cs,dart,mysql,postgres,sqlite,mongodb,redis,firebase,docker,kubernetes,aws,git,linux,graphql&theme=dark" />
@@ -66,12 +63,7 @@
 
 **CMS & Platforms:** Odoo, Moodle, OpenStreetMap, React Leaflet, Android (Kotlin/Java)
 
-</details>
-
-<details>
-<summary>🛡️ Cybersecurity — Web Security · Network · Recon · Exploitation</summary>
-
-<br>
+#### 🛡️ Cybersecurity — Web Security · Network · Recon · Exploitation
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali,linux,python,postman,wireshark&theme=dark" />
@@ -85,12 +77,7 @@
 
 **Exploitation Tools:** Burp Suite, Metasploit, SQLMap, Hydra, John the Ripper, Hashcat, OWASP ZAP, evasion techniques
 
-</details>
-
-<details>
-<summary>📊 Data Science & Geospatial — Analytics · ML · Big Data · GIS</summary>
-
-<br>
+#### 📊 Data Science & Geospatial — Analytics · ML · Big Data · GIS
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r&theme=dark" />
@@ -103,5 +90,3 @@
 **Statistics & Tools:** RStudio, MATLAB, SPSS, Excel, Web Scraping, Data Mining, Jupyter
 
 **Geospatial:** QGIS, ArcGIS, Geoserver, Geonode, ESA SNAP, OpenStreetMap, React Leaflet, spatial data processing
-
-</details>
