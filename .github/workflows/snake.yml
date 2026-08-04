@@ -22,15 +22,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: generate tetris
-        uses: Yash-Handa/github-contribution-canvas@v1
-        with:
-          github_user_name: zabbarfalih
-          output_directory: dist
-          use_release_pattern: false
-        env:
-          GH_TOKEN: ${{ github.token }}
-
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

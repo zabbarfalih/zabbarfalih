@@ -15,12 +15,6 @@
 
 ---
 
-### 🧱 Contribution Tetris
-
-![tetris animation](https://raw.githubusercontent.com/zabbarfalih/zabbarfalih/output/github-contribution-grid.svg)
-
----
-
 ### 📊 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zabbarfalih&show_icons=true&theme=radical)
