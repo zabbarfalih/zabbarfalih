@@ -39,9 +39,9 @@
     <img alt="github stats" src="https://github-readme-stats-fast-ten-omega.vercel.app/api?username=zabbarfalih&show_icons=true&include_all_commits=true&hide=contribs&theme=dracula" height="165" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&langs_count=20&theme=dracula" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&langs_count=20&theme=default" />
-    <img alt="top languages" src="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&langs_count=20&theme=dracula" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&theme=dracula" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&theme=default" />
+    <img alt="top languages" src="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&theme=dracula" height="165" />
   </picture>
 </p>
 
@@ -50,6 +50,14 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/streak?username=zabbarfalih&theme=dracula" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/streak?username=zabbarfalih&theme=default" />
     <img alt="github streak" src="https://github-readme-stats-fast-ten-omega.vercel.app/api/streak?username=zabbarfalih&theme=dracula" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&langs_count=20&theme=dracula" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&langs_count=20&theme=default" />
+    <img alt="all languages" src="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&langs_count=20&theme=dracula" />
   </picture>
 </p>
 
