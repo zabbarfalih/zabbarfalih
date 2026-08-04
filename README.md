@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./ascii-avatar.gif" width="540" alt="ascii avatar animated" />
+<img src="./ascii-avatar.gif" width="380" alt="ascii avatar animated" />
+<img src="./ascii-skull.gif" width="380" alt="ascii glitch animated" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&speed=50&color=FF3333&background=00000000&center=true&vCenter=true&width=600&lines=zabbarfalih%40kali%3A~%24+whoami;zabbarfalih;zabbarfalih%40kali%3A~%24+id;uid%3D0(root)+groups%3D0(redteam);Building+exploits%2C+not+excuses." />
