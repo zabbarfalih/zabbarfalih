@@ -20,7 +20,7 @@
 
 ### 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zabbarfalih&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=zabbarfalih&show_icons=true&theme=radical)
 
 ---
 
