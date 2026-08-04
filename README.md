@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=FF3333&background=00000000&center=true&vCenter=true&width=900&lines=Languages%3A+JavaScript%2C+TypeScript%2C+Python%2C+PHP%2C+Java%2C+Kotlin%2C+Go%2C+Rust%2C+C%2C+C%2B%2B%2C+C%23%2C+Dart%2C+Pascal%2C+Assembly;Frontend%3A+React%2C+Next.js%2C+Vue%2C+Angular%2C+Tailwind%2C+Bootstrap%2C+jQuery%2C+HTML5%2C+CSS3;Backend%3A+PHP%2C+Laravel%2C+CodeIgniter%2C+Yii%2C+Node.js%2C+Express%2C+NestJS%2C+Django%2C+FastAPI%2C+Flask%2C+Gin%2C+Fiber%2C+Spring+Boot%2C+.NET;Database+%26+Big+Data%3A+MySQL%2C+PostgreSQL%2C+SQLite%2C+MongoDB%2C+SQL+Server%2C+HBase%2C+Hadoop%2C+Spark%2C+Hive%2C+Kafka%2C+Sqoop%2C+Pig;DevOps+%26+Tools%3A+Docker%2C+Jenkins%2C+Git%2C+Linux%2C+Red+Hat+OpenShift%2C+CI%2FCD%2C+REST+API%2C+GraphQL%2C+WebSocket;CMS+%26+Platforms%3A+Odoo%2C+Moodle%2C+OpenStreetMap%2C+React+Leaflet%2C+Android" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=FF3333&background=00000000&center=true&vCenter=true&width=1100&lines=Languages%3A+JavaScript%2C+TypeScript%2C+Python%2C+PHP%2C+Java%2C+Kotlin%2C+Go%2C+Rust%2C+C%2C+C%2B%2B%2C+C%23%2C+Dart%2C+Pascal%2C+Assembly;Frontend%3A+React%2C+Next.js%2C+Vue%2C+Angular%2C+Tailwind%2C+Bootstrap%2C+jQuery%2C+HTML5%2C+CSS3;Backend%3A+PHP%2C+Laravel%2C+CodeIgniter%2C+Yii%2C+Node.js%2C+Express%2C+NestJS%2C+Django%2C+FastAPI%2C+Flask%2C+Gin%2C+Fiber%2C+Spring+Boot%2C+.NET;Database+%26+Big+Data%3A+MySQL%2C+PostgreSQL%2C+SQLite%2C+MongoDB%2C+SQL+Server%2C+HBase%2C+Hadoop%2C+Spark%2C+Hive%2C+Kafka%2C+Sqoop%2C+Pig;DevOps+%26+Tools%3A+Docker%2C+Jenkins%2C+Git%2C+Linux%2C+Red+Hat+OpenShift%2C+CI%2FCD%2C+REST+API%2C+GraphQL%2C+WebSocket;CMS+%26+Platforms%3A+Odoo%2C+Moodle%2C+OpenStreetMap%2C+React+Leaflet%2C+Android" />
 </p>
 
 **[+] Cybersecurity:** _Web Security · Network · Recon · Exploitation_
@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=FF3333&background=00000000&center=true&vCenter=true&width=900&lines=Web+Security%3A+SQLi%2C+XSS%2C+SSRF%2C+CSRF%2C+IDOR%2C+LFI%2FRFI%2C+SSTI%2C+XXE%2C+RCE%2C+Broken+Access+Control%2C+Auth+flaws;Network+Pentest%3A+Recon%2C+enumeration%2C+lateral+movement%2C+AD%2C+privesc%2C+SMB%2C+WinRM%2C+Impacket%2C+CrackMapExec%2C+Evil-WinRM;Recon+%26+Enumeration%3A+Nmap%2C+FFUF%2C+Gobuster%2C+Dirb%2C+Dirbuster%2C+subdomain+enumeration%2C+fingerprinting;Exploitation+Tools%3A+Burp+Suite%2C+Metasploit%2C+SQLMap%2C+Hydra%2C+John+the+Ripper%2C+Hashcat%2C+OWASP+ZAP" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=FF3333&background=00000000&center=true&vCenter=true&width=1100&lines=Web+Security%3A+SQLi%2C+XSS%2C+SSRF%2C+CSRF%2C+IDOR%2C+LFI%2FRFI%2C+SSTI%2C+XXE%2C+RCE%2C+Broken+Access+Control%2C+Auth+flaws;Network+Pentest%3A+Recon%2C+enumeration%2C+lateral+movement%2C+AD%2C+privesc%2C+SMB%2C+WinRM%2C+Impacket%2C+CrackMapExec%2C+Evil-WinRM;Recon+%26+Enumeration%3A+Nmap%2C+FFUF%2C+Gobuster%2C+Dirb%2C+Dirbuster%2C+subdomain+enumeration%2C+fingerprinting;Exploitation+Tools%3A+Burp+Suite%2C+Metasploit%2C+SQLMap%2C+Hydra%2C+John+the+Ripper%2C+Hashcat%2C+OWASP+ZAP" />
 </p>
 
 **[+] Data Science & Geospatial:** _Analytics · ML · Big Data · GIS_
@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=FF3333&background=00000000&center=true&vCenter=true&width=900&lines=Analysis+%26+ML%3A+Pandas%2C+NumPy%2C+Scikit-learn%2C+TensorFlow%2C+regression%2C+classification%2C+clustering;Big+Data%3A+Hadoop%2C+Apache+Spark%2C+Apache+Kafka%2C+Apache+Hive%2C+Apache+Sqoop%2C+Apache+Pig%2C+HBase;Statistics+%26+Tools%3A+RStudio%2C+MATLAB%2C+SPSS%2C+Excel%2C+Web+Scraping%2C+Data+Mining%2C+Jupyter;Geospatial%3A+QGIS%2C+ArcGIS%2C+Geoserver%2C+Geonode%2C+ESA+SNAP%2C+OpenStreetMap%2C+React+Leaflet" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=FF3333&background=00000000&center=true&vCenter=true&width=1100&lines=Analysis+%26+ML%3A+Pandas%2C+NumPy%2C+Scikit-learn%2C+TensorFlow%2C+regression%2C+classification%2C+clustering;Big+Data%3A+Hadoop%2C+Apache+Spark%2C+Apache+Kafka%2C+Apache+Hive%2C+Apache+Sqoop%2C+Apache+Pig%2C+HBase;Statistics+%26+Tools%3A+RStudio%2C+MATLAB%2C+SPSS%2C+Excel%2C+Web+Scraping%2C+Data+Mining%2C+Jupyter;Geospatial%3A+QGIS%2C+ArcGIS%2C+Geoserver%2C+Geonode%2C+ESA+SNAP%2C+OpenStreetMap%2C+React+Leaflet" />
 </p>
 
 ---
