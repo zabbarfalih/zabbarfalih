@@ -8,15 +8,11 @@
 
 <br>
 
-<p align="center">
-  <img src="./terminal.gif" width="600" alt="terminal animation" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FF3333&background=00000000&center=true&vCenter=true&width=700&lines=root%40kali%3A~%23+nmap+-sV+-p-+zabbarfalih.dev;443%2Ftcp+open+https+++fullstack-dev%2Fredteam;1337%2Ftcp+open+leet+++++status%3A+online;root%40kali%3A~%23+echo+%24MOTTO;%3E+build+things.+break+things.+fix+things.+repeat.)](https://git.io/typing-svg)
 
 ---
 
-<p align="center">
-  <img src="./terminal-snake.gif" width="500" alt="terminal snake command" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FF3333&background=00000000&center=true&vCenter=true&width=500&lines=root%40kali%3A~%23+.%2Fcontribution_snake.sh;%5B*%5D+devouring+contribution+graph...;%5B%2B%5D+snake+fed.+profile+secured.)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zabbarfalih/zabbarfalih/output/github-contribution-grid-snake-dark.svg" />
@@ -26,9 +22,7 @@
 
 ---
 
-<p align="center">
-  <img src="./terminal-stats.gif" width="500" alt="terminal stats command" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FF3333&background=00000000&center=true&vCenter=true&width=600&lines=root%40kali%3A~%23+nmap+-sV+--script%3Dstats+github.com%2Fzabbarfalih;443%2Ftcp+open+++fetching+commits%2C+langs%2C+streaks...)](https://git.io/typing-svg)
 
 <p align="center">
   <picture>
@@ -53,9 +47,7 @@
 
 ---
 
-<p align="center">
-  <img src="./terminal-skills.gif" width="500" alt="terminal skills command" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FF3333&background=00000000&center=true&vCenter=true&width=500&lines=root%40kali%3A~%23+ls+-la+%2Fusr%2Fshare%2Fskills%2F;drwxr-xr-x++fullstack-development%2F;drwxr-xr-x++cybersecurity%2F;drwxr-xr-x++data-science-geospatial%2F)](https://git.io/typing-svg)
 
 **[+] Fullstack Development:** _Frontend · Backend · Database · DevOps_
 
@@ -63,14 +55,17 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,jquery,html,css,js,ts,php,laravel,nodejs,express,nestjs,django,fastapi,flask,go,spring,dotnet,python,java,kotlin,rust,c,cpp,cs,dart,mysql,postgres,sqlite,mongodb,redis,firebase,docker,kubernetes,aws,git,linux,graphql&theme=dark" />
 </p>
 
-```
-[*] Languages    : JavaScript, TypeScript, Python, PHP, Java, Kotlin, Go, Rust, C, C++, C#, Dart, Pascal, Assembly
-[*] Frontend     : React, Next.js, Vue, Angular, Tailwind, Bootstrap, jQuery, HTML5, CSS3
-[*] Backend      : PHP, Laravel, CodeIgniter, Yii, Node.js, Express, NestJS, Django, FastAPI, Flask, Gin, Fiber, Spring Boot, .NET
-[*] Database     : MySQL, PostgreSQL, SQLite, MongoDB, SQL Server, HBase, Hadoop, Apache Spark, Hive, Kafka, Sqoop, Pig
-[*] DevOps       : Docker, Jenkins, Git, Linux, Red Hat OpenShift, CI/CD, REST API, GraphQL, WebSocket
-[*] CMS/Platform : Odoo, Moodle, OpenStreetMap, React Leaflet, Android (Kotlin/Java)
-```
+**Languages:** JavaScript, TypeScript, Python, PHP, Java, Kotlin, Go, Rust, C, C++, C#, Dart, Pascal, Assembly
+
+**Frontend:** React, Next.js, Vue, Angular, Tailwind, Bootstrap, jQuery, HTML5, CSS3
+
+**Backend:** PHP, Laravel, CodeIgniter, Yii, Node.js, Express, NestJS, Django, FastAPI, Flask, Gin, Fiber, Spring Boot, .NET
+
+**Database & Big Data:** MySQL, PostgreSQL, SQLite, MongoDB, SQL Server, HBase, Hadoop, Apache Spark, Hive, Kafka, Sqoop, Pig
+
+**DevOps & Tools:** Docker, Jenkins, Git, Linux, Red Hat OpenShift, CI/CD, REST API, GraphQL, WebSocket
+
+**CMS & Platforms:** Odoo, Moodle, OpenStreetMap, React Leaflet, Android (Kotlin/Java)
 
 **[+] Cybersecurity:** _Web Security · Network · Recon · Exploitation_
 
@@ -78,12 +73,13 @@
   <img src="https://skillicons.dev/icons?i=kali,linux,python,postman,wireshark&theme=dark" />
 </p>
 
-```
-[*] Web Security      : SQLi, XSS, SSRF, CSRF, IDOR, LFI/RFI, SSTI, XXE, RCE, Broken Access Control, Auth flaws, File Upload, Command Injection
-[*] Network Pentest   : Recon, enumeration, lateral movement, AD, privesc, SMB, WinRM, Impacket, CrackMapExec, Evil-WinRM
-[*] Recon/Enumeration : Nmap, FFUF, Gobuster, Dirb, Dirbuster, subdomain enumeration, fingerprinting
-[*] Exploitation      : Burp Suite, Metasploit, SQLMap, Hydra, John the Ripper, Hashcat, OWASP ZAP, evasion techniques
-```
+**Web Security:** SQLi, XSS, SSRF, CSRF, IDOR, LFI/RFI, SSTI, XXE, RCE, Broken Access Control, Auth flaws, File Upload, Command Injection
+
+**Network Pentest:** Recon, enumeration, lateral movement, AD, privesc, SMB, WinRM, Impacket, CrackMapExec, Evil-WinRM
+
+**Recon & Enumeration:** Nmap, FFUF, Gobuster, Dirb, Dirbuster, subdomain enumeration, fingerprinting
+
+**Exploitation Tools:** Burp Suite, Metasploit, SQLMap, Hydra, John the Ripper, Hashcat, OWASP ZAP, evasion techniques
 
 **[+] Data Science & Geospatial:** _Analytics · ML · Big Data · GIS_
 
@@ -91,18 +87,17 @@
   <img src="https://skillicons.dev/icons?i=python,r&theme=dark" />
 </p>
 
-```
-[*] Analysis/ML   : Pandas, NumPy, Scikit-learn, TensorFlow, regression, classification, clustering, feature engineering
-[*] Big Data      : Hadoop, Apache Spark, Apache Kafka, Apache Hive, Apache Sqoop, Apache Pig, HBase
-[*] Stats/Tools   : RStudio, MATLAB, SPSS, Excel, Web Scraping, Data Mining, Jupyter
-[*] Geospatial    : QGIS, ArcGIS, Geoserver, Geonode, ESA SNAP, OpenStreetMap, React Leaflet, spatial data processing
-```
+**Analysis & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, regression, classification, clustering, feature engineering
+
+**Big Data:** Hadoop, Apache Spark, Apache Kafka, Apache Hive, Apache Sqoop, Apache Pig, HBase
+
+**Statistics & Tools:** RStudio, MATLAB, SPSS, Excel, Web Scraping, Data Mining, Jupyter
+
+**Geospatial:** QGIS, ArcGIS, Geoserver, Geonode, ESA SNAP, OpenStreetMap, React Leaflet, spatial data processing
 
 ---
 
-<p align="center">
-  <img src="./terminal-exit.gif" width="500" alt="terminal exit command" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FF3333&background=00000000&center=true&vCenter=true&width=400&lines=root%40kali%3A~%23+exit;logout;connection+closed.)](https://git.io/typing-svg)
 
 <div align="center">
 
