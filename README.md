@@ -38,13 +38,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api?username=zabbarfalih&show_icons=true&include_all_commits=true&hide=contribs&theme=default" />
     <img alt="github stats" src="https://github-readme-stats-fast-ten-omega.vercel.app/api?username=zabbarfalih&show_icons=true&include_all_commits=true&hide=contribs&theme=dracula" height="165" />
   </picture>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/streak?username=zabbarfalih&theme=dracula" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/streak?username=zabbarfalih&theme=default" />
-    <img alt="github streak" src="https://github-readme-stats-fast-ten-omega.vercel.app/api/streak?username=zabbarfalih&theme=dracula" />
+    <img alt="github streak" src="https://github-readme-stats-fast-ten-omega.vercel.app/api/streak?username=zabbarfalih&theme=dracula" height="165" />
   </picture>
 </p>
 
