@@ -50,9 +50,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&langs_count=20&theme=dracula" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&langs_count=20&theme=default" />
-    <img alt="all languages" src="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&langs_count=20&theme=dracula" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&langs_count=20&card_width=800&theme=dracula" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&langs_count=20&card_width=800&theme=default" />
+    <img alt="all languages" src="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&langs_count=20&card_width=800&theme=dracula" />
   </picture>
 </p>
 
