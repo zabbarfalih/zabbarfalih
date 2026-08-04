@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./ascii-avatar.gif" width="380" alt="ascii avatar animated" />
-<img src="./ascii-skull.gif" width="380" alt="ascii glitch animated" />
+<img src="./ascii-avatar.gif" width="540" alt="ascii avatar animated" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&speed=50&color=FF3333&background=00000000&center=true&vCenter=true&width=600&lines=zabbarfalih%40kali%3A~%24+whoami;zabbarfalih;zabbarfalih%40kali%3A~%24+id;uid%3D0(root)+groups%3D0(redteam);Building+exploits%2C+not+excuses." />
@@ -256,6 +255,10 @@
 ![React Leaflet](https://img.shields.io/badge/-React%20Leaflet-1a0000?style=flat&color=8B0000)
 
 ---
+
+<p align="right">
+  <img src="./ascii-skull.gif" width="220" alt="ascii glitch animated" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&speed=100&deletingSpeed=10&color=FF3333&background=00000000&center=true&vCenter=true&width=450&lines=zabbarfalih%40kali%3A~%24+exit;logout;connection+closed." />
