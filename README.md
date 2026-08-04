@@ -1,0 +1,34 @@
+<div align="center">
+
+<img src="./ascii-avatar.gif" width="540" alt="ascii avatar animated" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+zabbarfalih;Building+things+with+code;Welcome+to+my+profile)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+![snake animation](https://raw.githubusercontent.com/zabbarfalih/zabbarfalih/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![snake animation](https://raw.githubusercontent.com/zabbarfalih/zabbarfalih/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+
+---
+
+### 🧱 Contribution Tetris
+
+![tetris animation](https://raw.githubusercontent.com/zabbarfalih/zabbarfalih/output/github-contribution-grid.svg)
+
+---
+
+### 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zabbarfalih&show_icons=true&theme=radical)
+
+---
+
+### 🛠️ Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,python,php,go,git,linux,docker,shell&theme=dark" />
+</p>
