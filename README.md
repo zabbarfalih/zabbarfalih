@@ -65,9 +65,86 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,jquery,html,css,js,ts,php,laravel,nodejs,express,nestjs,django,fastapi,flask,go,spring,dotnet,python,java,kotlin,rust,c,cpp,cs,dart,mysql,postgres,sqlite,mongodb,redis,firebase,docker,kubernetes,aws,git,linux,graphql&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=FF3333&background=00000000&center=true&vCenter=true&width=1100&lines=Languages%3A+JavaScript%2C+TypeScript%2C+Python%2C+PHP%2C+Java%2C+Kotlin%2C+Go%2C+Rust%2C+C%2C+C%2B%2B%2C+C%23%2C+Dart%2C+Pascal%2C+Assembly;Frontend%3A+React%2C+Next.js%2C+Vue%2C+Angular%2C+Tailwind%2C+Bootstrap%2C+jQuery%2C+HTML5%2C+CSS3;Backend%3A+PHP%2C+Laravel%2C+CodeIgniter%2C+Yii%2C+Node.js%2C+Express%2C+NestJS%2C+Django%2C+FastAPI%2C+Flask%2C+Gin%2C+Fiber%2C+Spring+Boot%2C+.NET;Database+%26+Big+Data%3A+MySQL%2C+PostgreSQL%2C+SQLite%2C+MongoDB%2C+SQL+Server%2C+HBase%2C+Hadoop%2C+Spark%2C+Hive%2C+Kafka%2C+Sqoop%2C+Pig;DevOps+%26+Tools%3A+Docker%2C+Jenkins%2C+Git%2C+Linux%2C+Red+Hat+OpenShift%2C+CI%2FCD%2C+REST+API%2C+GraphQL%2C+WebSocket;CMS+%26+Platforms%3A+Odoo%2C+Moodle%2C+OpenStreetMap%2C+React+Leaflet%2C+Android" />
-</p>
+**Languages**
+<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logoColor=FF3333&labelColor=000000&color=1a0000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1a0000?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-1a0000?style=flat-square)
+![PHP](https://img.shields.io/badge/-PHP-1a0000?style=flat-square)
+![Java](https://img.shields.io/badge/-Java-1a0000?style=flat-square)
+![Kotlin](https://img.shields.io/badge/-Kotlin-1a0000?style=flat-square)
+![Go](https://img.shields.io/badge/-Go-1a0000?style=flat-square)
+![Rust](https://img.shields.io/badge/-Rust-1a0000?style=flat-square)
+![C](https://img.shields.io/badge/-C-1a0000?style=flat-square)
+![C++](https://img.shields.io/badge/-C%2B%2B-1a0000?style=flat-square)
+![C#](https://img.shields.io/badge/-C%23-1a0000?style=flat-square)
+![Dart](https://img.shields.io/badge/-Dart-1a0000?style=flat-square)
+![Pascal](https://img.shields.io/badge/-Pascal-1a0000?style=flat-square)
+![Assembly](https://img.shields.io/badge/-Assembly-1a0000?style=flat-square)
+
+**Frontend**
+<br>
+![React](https://img.shields.io/badge/-React-1a0000?style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-1a0000?style=flat-square)
+![Vue](https://img.shields.io/badge/-Vue-1a0000?style=flat-square)
+![Angular](https://img.shields.io/badge/-Angular-1a0000?style=flat-square)
+![Tailwind](https://img.shields.io/badge/-Tailwind-1a0000?style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-1a0000?style=flat-square)
+![jQuery](https://img.shields.io/badge/-jQuery-1a0000?style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-1a0000?style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1a0000?style=flat-square)
+
+**Backend**
+<br>
+![PHP](https://img.shields.io/badge/-PHP-1a0000?style=flat-square)
+![Laravel](https://img.shields.io/badge/-Laravel-1a0000?style=flat-square)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-1a0000?style=flat-square)
+![Yii](https://img.shields.io/badge/-Yii-1a0000?style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-1a0000?style=flat-square)
+![Express](https://img.shields.io/badge/-Express-1a0000?style=flat-square)
+![NestJS](https://img.shields.io/badge/-NestJS-1a0000?style=flat-square)
+![Django](https://img.shields.io/badge/-Django-1a0000?style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-1a0000?style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-1a0000?style=flat-square)
+![Gin](https://img.shields.io/badge/-Gin-1a0000?style=flat-square)
+![Fiber](https://img.shields.io/badge/-Fiber-1a0000?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-1a0000?style=flat-square)
+![.NET](https://img.shields.io/badge/-.NET-1a0000?style=flat-square)
+
+**Database & Big Data**
+<br>
+![MySQL](https://img.shields.io/badge/-MySQL-1a0000?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a0000?style=flat-square)
+![SQLite](https://img.shields.io/badge/-SQLite-1a0000?style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1a0000?style=flat-square)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-1a0000?style=flat-square)
+![HBase](https://img.shields.io/badge/-HBase-1a0000?style=flat-square)
+![Hadoop](https://img.shields.io/badge/-Hadoop-1a0000?style=flat-square)
+![Spark](https://img.shields.io/badge/-Spark-1a0000?style=flat-square)
+![Hive](https://img.shields.io/badge/-Hive-1a0000?style=flat-square)
+![Kafka](https://img.shields.io/badge/-Kafka-1a0000?style=flat-square)
+![Sqoop](https://img.shields.io/badge/-Sqoop-1a0000?style=flat-square)
+![Pig](https://img.shields.io/badge/-Pig-1a0000?style=flat-square)
+
+**DevOps & Tools**
+<br>
+![Docker](https://img.shields.io/badge/-Docker-1a0000?style=flat-square)
+![Jenkins](https://img.shields.io/badge/-Jenkins-1a0000?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-1a0000?style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-1a0000?style=flat-square)
+![OpenShift](https://img.shields.io/badge/-Red%20Hat%20OpenShift-1a0000?style=flat-square)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-1a0000?style=flat-square)
+![REST API](https://img.shields.io/badge/-REST%20API-1a0000?style=flat-square)
+![GraphQL](https://img.shields.io/badge/-GraphQL-1a0000?style=flat-square)
+![WebSocket](https://img.shields.io/badge/-WebSocket-1a0000?style=flat-square)
+
+**CMS & Platforms**
+<br>
+![Odoo](https://img.shields.io/badge/-Odoo-1a0000?style=flat-square)
+![Moodle](https://img.shields.io/badge/-Moodle-1a0000?style=flat-square)
+![OpenStreetMap](https://img.shields.io/badge/-OpenStreetMap-1a0000?style=flat-square)
+![React Leaflet](https://img.shields.io/badge/-React%20Leaflet-1a0000?style=flat-square)
+![Android](https://img.shields.io/badge/-Android-1a0000?style=flat-square)
 
 **[+] Cybersecurity:** _Web Security · Network · Recon · Exploitation_
 
@@ -75,9 +152,54 @@
   <img src="https://skillicons.dev/icons?i=kali,linux,python,postman,wireshark&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=FF3333&background=00000000&center=true&vCenter=true&width=1100&lines=Web+Security%3A+SQLi%2C+XSS%2C+SSRF%2C+CSRF%2C+IDOR%2C+LFI%2FRFI%2C+SSTI%2C+XXE%2C+RCE%2C+Broken+Access+Control%2C+Auth+flaws;Network+Pentest%3A+Recon%2C+enumeration%2C+lateral+movement%2C+AD%2C+privesc%2C+SMB%2C+WinRM%2C+Impacket%2C+CrackMapExec%2C+Evil-WinRM;Recon+%26+Enumeration%3A+Nmap%2C+FFUF%2C+Gobuster%2C+Dirb%2C+Dirbuster%2C+subdomain+enumeration%2C+fingerprinting;Exploitation+Tools%3A+Burp+Suite%2C+Metasploit%2C+SQLMap%2C+Hydra%2C+John+the+Ripper%2C+Hashcat%2C+OWASP+ZAP" />
-</p>
+**Web Security**
+<br>
+![SQLi](https://img.shields.io/badge/-SQLi-1a0000?style=flat-square)
+![XSS](https://img.shields.io/badge/-XSS-1a0000?style=flat-square)
+![SSRF](https://img.shields.io/badge/-SSRF-1a0000?style=flat-square)
+![CSRF](https://img.shields.io/badge/-CSRF-1a0000?style=flat-square)
+![IDOR](https://img.shields.io/badge/-IDOR-1a0000?style=flat-square)
+![LFI/RFI](https://img.shields.io/badge/-LFI%2FRFI-1a0000?style=flat-square)
+![SSTI](https://img.shields.io/badge/-SSTI-1a0000?style=flat-square)
+![XXE](https://img.shields.io/badge/-XXE-1a0000?style=flat-square)
+![RCE](https://img.shields.io/badge/-RCE-1a0000?style=flat-square)
+![Broken Access Control](https://img.shields.io/badge/-Broken%20Access%20Control-1a0000?style=flat-square)
+![Auth Flaws](https://img.shields.io/badge/-Auth%20Flaws-1a0000?style=flat-square)
+![File Upload](https://img.shields.io/badge/-File%20Upload-1a0000?style=flat-square)
+![Command Injection](https://img.shields.io/badge/-Command%20Injection-1a0000?style=flat-square)
+
+**Network Pentest**
+<br>
+![Recon](https://img.shields.io/badge/-Recon-1a0000?style=flat-square)
+![Enumeration](https://img.shields.io/badge/-Enumeration-1a0000?style=flat-square)
+![Lateral Movement](https://img.shields.io/badge/-Lateral%20Movement-1a0000?style=flat-square)
+![AD](https://img.shields.io/badge/-Active%20Directory-1a0000?style=flat-square)
+![Privesc](https://img.shields.io/badge/-Privesc-1a0000?style=flat-square)
+![SMB](https://img.shields.io/badge/-SMB-1a0000?style=flat-square)
+![WinRM](https://img.shields.io/badge/-WinRM-1a0000?style=flat-square)
+![Impacket](https://img.shields.io/badge/-Impacket-1a0000?style=flat-square)
+![CrackMapExec](https://img.shields.io/badge/-CrackMapExec-1a0000?style=flat-square)
+![Evil-WinRM](https://img.shields.io/badge/-Evil--WinRM-1a0000?style=flat-square)
+
+**Recon & Enumeration**
+<br>
+![Nmap](https://img.shields.io/badge/-Nmap-1a0000?style=flat-square)
+![FFUF](https://img.shields.io/badge/-FFUF-1a0000?style=flat-square)
+![Gobuster](https://img.shields.io/badge/-Gobuster-1a0000?style=flat-square)
+![Dirb](https://img.shields.io/badge/-Dirb-1a0000?style=flat-square)
+![Dirbuster](https://img.shields.io/badge/-Dirbuster-1a0000?style=flat-square)
+![Subdomain Enum](https://img.shields.io/badge/-Subdomain%20Enum-1a0000?style=flat-square)
+![Fingerprinting](https://img.shields.io/badge/-Fingerprinting-1a0000?style=flat-square)
+
+**Exploitation Tools**
+<br>
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-1a0000?style=flat-square)
+![Metasploit](https://img.shields.io/badge/-Metasploit-1a0000?style=flat-square)
+![SQLMap](https://img.shields.io/badge/-SQLMap-1a0000?style=flat-square)
+![Hydra](https://img.shields.io/badge/-Hydra-1a0000?style=flat-square)
+![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-1a0000?style=flat-square)
+![Hashcat](https://img.shields.io/badge/-Hashcat-1a0000?style=flat-square)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-1a0000?style=flat-square)
 
 **[+] Data Science & Geospatial:** _Analytics · ML · Big Data · GIS_
 
@@ -85,9 +207,46 @@
   <img src="https://skillicons.dev/icons?i=python,r&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=FF3333&background=00000000&center=true&vCenter=true&width=1100&lines=Analysis+%26+ML%3A+Pandas%2C+NumPy%2C+Scikit-learn%2C+TensorFlow%2C+regression%2C+classification%2C+clustering;Big+Data%3A+Hadoop%2C+Apache+Spark%2C+Apache+Kafka%2C+Apache+Hive%2C+Apache+Sqoop%2C+Apache+Pig%2C+HBase;Statistics+%26+Tools%3A+RStudio%2C+MATLAB%2C+SPSS%2C+Excel%2C+Web+Scraping%2C+Data+Mining%2C+Jupyter;Geospatial%3A+QGIS%2C+ArcGIS%2C+Geoserver%2C+Geonode%2C+ESA+SNAP%2C+OpenStreetMap%2C+React+Leaflet" />
-</p>
+**Analysis & ML**
+<br>
+![Pandas](https://img.shields.io/badge/-Pandas-1a0000?style=flat-square)
+![NumPy](https://img.shields.io/badge/-NumPy-1a0000?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-1a0000?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-1a0000?style=flat-square)
+![Regression](https://img.shields.io/badge/-Regression-1a0000?style=flat-square)
+![Classification](https://img.shields.io/badge/-Classification-1a0000?style=flat-square)
+![Clustering](https://img.shields.io/badge/-Clustering-1a0000?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/-Feature%20Engineering-1a0000?style=flat-square)
+
+**Big Data**
+<br>
+![Hadoop](https://img.shields.io/badge/-Hadoop-1a0000?style=flat-square)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-1a0000?style=flat-square)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-1a0000?style=flat-square)
+![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-1a0000?style=flat-square)
+![Apache Sqoop](https://img.shields.io/badge/-Apache%20Sqoop-1a0000?style=flat-square)
+![Apache Pig](https://img.shields.io/badge/-Apache%20Pig-1a0000?style=flat-square)
+![HBase](https://img.shields.io/badge/-HBase-1a0000?style=flat-square)
+
+**Statistics & Tools**
+<br>
+![RStudio](https://img.shields.io/badge/-RStudio-1a0000?style=flat-square)
+![MATLAB](https://img.shields.io/badge/-MATLAB-1a0000?style=flat-square)
+![SPSS](https://img.shields.io/badge/-SPSS-1a0000?style=flat-square)
+![Excel](https://img.shields.io/badge/-Excel-1a0000?style=flat-square)
+![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-1a0000?style=flat-square)
+![Data Mining](https://img.shields.io/badge/-Data%20Mining-1a0000?style=flat-square)
+![Jupyter](https://img.shields.io/badge/-Jupyter-1a0000?style=flat-square)
+
+**Geospatial**
+<br>
+![QGIS](https://img.shields.io/badge/-QGIS-1a0000?style=flat-square)
+![ArcGIS](https://img.shields.io/badge/-ArcGIS-1a0000?style=flat-square)
+![Geoserver](https://img.shields.io/badge/-Geoserver-1a0000?style=flat-square)
+![Geonode](https://img.shields.io/badge/-Geonode-1a0000?style=flat-square)
+![ESA SNAP](https://img.shields.io/badge/-ESA%20SNAP-1a0000?style=flat-square)
+![OpenStreetMap](https://img.shields.io/badge/-OpenStreetMap-1a0000?style=flat-square)
+![React Leaflet](https://img.shields.io/badge/-React%20Leaflet-1a0000?style=flat-square)
 
 ---
 
