@@ -22,9 +22,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api?username=zabbarfalih&show_icons=true&theme=radical" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api?username=zabbarfalih&show_icons=true&theme=default" />
-    <img alt="github stats" src="https://github-readme-stats-fast-ten-omega.vercel.app/api?username=zabbarfalih&show_icons=true&theme=radical" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api?username=zabbarfalih&show_icons=true&include_all_commits=true&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api?username=zabbarfalih&show_icons=true&include_all_commits=true&theme=default" />
+    <img alt="github stats" src="https://github-readme-stats-fast-ten-omega.vercel.app/api?username=zabbarfalih&show_icons=true&include_all_commits=true&theme=radical" height="165" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&theme=radical" />
