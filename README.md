@@ -256,14 +256,16 @@
 
 ---
 
-<p align="right">
-  <img src="./ascii-skull.gif" width="220" alt="ascii glitch animated" />
-</p>
+<div align="center" style="position:relative;">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&speed=100&deletingSpeed=10&color=FF3333&background=00000000&center=true&vCenter=true&width=450&lines=zabbarfalih%40kali%3A~%24+exit;logout;connection+closed." />
-</p>
+<img src="./ascii-skull.gif" width="420" alt="ascii glitch animated" style="opacity:0.9;" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=24&pause=3000&speed=45&deletingSpeed=8&color=FF3333&background=00000000&center=true&vCenter=true&width=700&lines=There+is+no+patch+for+human+stupidity%2C+but+there's+always+a+workaround." />
-</p>
+<div style="position:absolute; top:0; left:0; width:100%; height:100%; display:flex; flex-direction:column; align-items:center; justify-content:center;">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&speed=100&deletingSpeed=10&color=FF3333&background=00000000&center=true&vCenter=true&width=450&lines=zabbarfalih%40kali%3A~%24+exit;logout;connection+closed." />
+
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=24&pause=3000&speed=45&deletingSpeed=8&color=FF3333&background=00000000&center=true&vCenter=true&width=700&lines=There+is+no+patch+for+human+stupidity%2C+but+there's+always+a+workaround." />
+
+</div>
+
+</div>
