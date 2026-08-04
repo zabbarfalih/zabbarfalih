@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&speed=40&deletingSpeed=15&color=FF3333&background=00000000&center=true&vCenter=true&width=600&lines=%5B%2B%5D+Fullstack+Development%3A+Frontend+%C2%B7+Backend+%C2%B7+Database+%C2%B7+DevOps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&speed=40&deletingSpeed=15&color=FF3333&background=00000000&center=true&vCenter=true&width=780&lines=%5B%2B%5D+Fullstack+Development%3A+Frontend+%C2%B7+Backend+%C2%B7+Database+%C2%B7+DevOps" />
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@
 
 **Languages**
 <br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&color=8B0000&logoColor=FF3333&labelColor=000000&color=1a0000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-8B0000?style=flat&color=8B0000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1a0000?style=flat&color=8B0000)
 ![Python](https://img.shields.io/badge/-Python-1a0000?style=flat&color=8B0000)
 ![PHP](https://img.shields.io/badge/-PHP-1a0000?style=flat&color=8B0000)
@@ -149,7 +149,7 @@
 ![Android](https://img.shields.io/badge/-Android-1a0000?style=flat&color=8B0000)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&speed=60&deletingSpeed=25&color=FF3333&background=00000000&center=true&vCenter=true&width=600&lines=%5B%2B%5D+Cybersecurity%3A+Web+Security+%C2%B7+Network+%C2%B7+Recon+%C2%B7+Exploitation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&speed=60&deletingSpeed=25&color=FF3333&background=00000000&center=true&vCenter=true&width=780&lines=%5B%2B%5D+Cybersecurity%3A+Web+Security+%C2%B7+Network+%C2%B7+Recon+%C2%B7+Exploitation" />
 </p>
 
 <p align="center">
@@ -206,7 +206,7 @@
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-1a0000?style=flat&color=8B0000)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&speed=25&deletingSpeed=10&color=FF3333&background=00000000&center=true&vCenter=true&width=600&lines=%5B%2B%5D+Data+Science+%26+Geospatial%3A+Analytics+%C2%B7+ML+%C2%B7+Big+Data+%C2%B7+GIS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&speed=25&deletingSpeed=10&color=FF3333&background=00000000&center=true&vCenter=true&width=780&lines=%5B%2B%5D+Data+Science+%26+Geospatial%3A+Analytics+%C2%B7+ML+%C2%B7+Big+Data+%C2%B7+GIS" />
 </p>
 
 <p align="center">
@@ -261,5 +261,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&speed=45&deletingSpeed=8&italic=true&color=FF3333&background=00000000&center=true&vCenter=true&width=700&lines=There+is+no+patch+for+human+stupidity%2C+but+there's+always+a+workaround." />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=24&pause=3000&speed=45&deletingSpeed=8&color=FF3333&background=00000000&center=true&vCenter=true&width=700&lines=There+is+no+patch+for+human+stupidity%2C+but+there's+always+a+workaround." />
 </p>
