@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img alt="github stats, streak, activity, top languages" src="https://github-stat-opal.vercel.app/api/all?v=1&username=zabbarfalih&include_all_commits=true" width="640" />
+  <img alt="github stats, streak, activity, top languages" src="https://github-stat-opal.vercel.app/api/all?v=2&username=zabbarfalih&include_all_commits=true" width="720" />
 </p>
 
 <p align="center"><img alt="" src="https://github-stat-opal.vercel.app/api/badge?kind=divider&width=720" /></p>
@@ -53,89 +53,89 @@
 <img alt="Languages" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Languages&width=320" />
 <br>
 
-![JavaScript](https://github-stat-opal.vercel.app/api/badge?text=JavaScript)
-![TypeScript](https://github-stat-opal.vercel.app/api/badge?text=TypeScript)
-![Python](https://github-stat-opal.vercel.app/api/badge?text=Python)
-![PHP](https://github-stat-opal.vercel.app/api/badge?text=PHP)
-![Java](https://github-stat-opal.vercel.app/api/badge?text=Java)
-![Kotlin](https://github-stat-opal.vercel.app/api/badge?text=Kotlin)
-![Go](https://github-stat-opal.vercel.app/api/badge?text=Go)
-![Rust](https://github-stat-opal.vercel.app/api/badge?text=Rust)
-![C](https://github-stat-opal.vercel.app/api/badge?text=C)
-![C++](https://github-stat-opal.vercel.app/api/badge?text=C%2B%2B)
-![C#](https://github-stat-opal.vercel.app/api/badge?text=C%23)
-![Dart](https://github-stat-opal.vercel.app/api/badge?text=Dart)
-![Pascal](https://github-stat-opal.vercel.app/api/badge?text=Pascal)
-![Assembly](https://github-stat-opal.vercel.app/api/badge?text=Assembly)
+![JavaScript](https://github-stat-opal.vercel.app/api/badge?text=JavaScript&logo=javascript)
+![TypeScript](https://github-stat-opal.vercel.app/api/badge?text=TypeScript&logo=typescript)
+![Python](https://github-stat-opal.vercel.app/api/badge?text=Python&logo=python)
+![PHP](https://github-stat-opal.vercel.app/api/badge?text=PHP&logo=php)
+![Java](https://github-stat-opal.vercel.app/api/badge?text=Java&logo=openjdk)
+![Kotlin](https://github-stat-opal.vercel.app/api/badge?text=Kotlin&logo=kotlin)
+![Go](https://github-stat-opal.vercel.app/api/badge?text=Go&logo=go)
+![Rust](https://github-stat-opal.vercel.app/api/badge?text=Rust&logo=rust)
+![C](https://github-stat-opal.vercel.app/api/badge?text=C&logo=c)
+![C++](https://github-stat-opal.vercel.app/api/badge?text=C%2B%2B&logo=cplusplus)
+![C#](https://github-stat-opal.vercel.app/api/badge?text=C%23&logo=csharp)
+![Dart](https://github-stat-opal.vercel.app/api/badge?text=Dart&logo=dart)
+![Pascal](https://github-stat-opal.vercel.app/api/badge?text=Pascal&logo=delphi)
+![Assembly](https://github-stat-opal.vercel.app/api/badge?text=Assembly&logo=assemblyscript)
 
 <img alt="Frontend" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Frontend&width=320" />
 <br>
 
-![React](https://github-stat-opal.vercel.app/api/badge?text=React)
-![Next.js](https://github-stat-opal.vercel.app/api/badge?text=Next.js)
-![Vue](https://github-stat-opal.vercel.app/api/badge?text=Vue)
-![Angular](https://github-stat-opal.vercel.app/api/badge?text=Angular)
-![Tailwind](https://github-stat-opal.vercel.app/api/badge?text=Tailwind)
-![Bootstrap](https://github-stat-opal.vercel.app/api/badge?text=Bootstrap)
-![jQuery](https://github-stat-opal.vercel.app/api/badge?text=jQuery)
-![HTML5](https://github-stat-opal.vercel.app/api/badge?text=HTML5)
-![CSS3](https://github-stat-opal.vercel.app/api/badge?text=CSS3)
+![React](https://github-stat-opal.vercel.app/api/badge?text=React&logo=react)
+![Next.js](https://github-stat-opal.vercel.app/api/badge?text=Next.js&logo=nextdotjs)
+![Vue](https://github-stat-opal.vercel.app/api/badge?text=Vue&logo=vuedotjs)
+![Angular](https://github-stat-opal.vercel.app/api/badge?text=Angular&logo=angular)
+![Tailwind](https://github-stat-opal.vercel.app/api/badge?text=Tailwind&logo=tailwindcss)
+![Bootstrap](https://github-stat-opal.vercel.app/api/badge?text=Bootstrap&logo=bootstrap)
+![jQuery](https://github-stat-opal.vercel.app/api/badge?text=jQuery&logo=jquery)
+![HTML5](https://github-stat-opal.vercel.app/api/badge?text=HTML5&logo=html5)
+![CSS3](https://github-stat-opal.vercel.app/api/badge?text=CSS3&logo=css3)
 
 <img alt="Backend" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Backend&width=320" />
 <br>
 
-![PHP](https://github-stat-opal.vercel.app/api/badge?text=PHP)
-![Laravel](https://github-stat-opal.vercel.app/api/badge?text=Laravel)
-![CodeIgniter](https://github-stat-opal.vercel.app/api/badge?text=CodeIgniter)
-![Yii](https://github-stat-opal.vercel.app/api/badge?text=Yii)
-![Node.js](https://github-stat-opal.vercel.app/api/badge?text=Node.js)
-![Express](https://github-stat-opal.vercel.app/api/badge?text=Express)
-![NestJS](https://github-stat-opal.vercel.app/api/badge?text=NestJS)
-![Django](https://github-stat-opal.vercel.app/api/badge?text=Django)
-![FastAPI](https://github-stat-opal.vercel.app/api/badge?text=FastAPI)
-![Flask](https://github-stat-opal.vercel.app/api/badge?text=Flask)
-![Gin](https://github-stat-opal.vercel.app/api/badge?text=Gin)
-![Fiber](https://github-stat-opal.vercel.app/api/badge?text=Fiber)
-![Spring Boot](https://github-stat-opal.vercel.app/api/badge?text=Spring%20Boot)
-![.NET](https://github-stat-opal.vercel.app/api/badge?text=.NET)
+![PHP](https://github-stat-opal.vercel.app/api/badge?text=PHP&logo=php)
+![Laravel](https://github-stat-opal.vercel.app/api/badge?text=Laravel&logo=laravel)
+![CodeIgniter](https://github-stat-opal.vercel.app/api/badge?text=CodeIgniter&logo=codeigniter)
+![Yii](https://github-stat-opal.vercel.app/api/badge?text=Yii&logo=yii)
+![Node.js](https://github-stat-opal.vercel.app/api/badge?text=Node.js&logo=nodedotjs)
+![Express](https://github-stat-opal.vercel.app/api/badge?text=Express&logo=express)
+![NestJS](https://github-stat-opal.vercel.app/api/badge?text=NestJS&logo=nestjs)
+![Django](https://github-stat-opal.vercel.app/api/badge?text=Django&logo=django)
+![FastAPI](https://github-stat-opal.vercel.app/api/badge?text=FastAPI&logo=fastapi)
+![Flask](https://github-stat-opal.vercel.app/api/badge?text=Flask&logo=flask)
+![Gin](https://github-stat-opal.vercel.app/api/badge?text=Gin&logo=gin)
+![Fiber](https://github-stat-opal.vercel.app/api/badge?text=Fiber&logo=go)
+![Spring Boot](https://github-stat-opal.vercel.app/api/badge?text=Spring%20Boot&logo=springboot)
+![.NET](https://github-stat-opal.vercel.app/api/badge?text=.NET&logo=dotnet)
 
 <img alt="Database & Big Data" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Database%20%26%20Big%20Data&width=320" />
 <br>
 
-![MySQL](https://github-stat-opal.vercel.app/api/badge?text=MySQL)
-![PostgreSQL](https://github-stat-opal.vercel.app/api/badge?text=PostgreSQL)
-![SQLite](https://github-stat-opal.vercel.app/api/badge?text=SQLite)
-![MongoDB](https://github-stat-opal.vercel.app/api/badge?text=MongoDB)
-![SQL Server](https://github-stat-opal.vercel.app/api/badge?text=SQL%20Server)
-![HBase](https://github-stat-opal.vercel.app/api/badge?text=HBase)
-![Hadoop](https://github-stat-opal.vercel.app/api/badge?text=Hadoop)
-![Spark](https://github-stat-opal.vercel.app/api/badge?text=Spark)
-![Hive](https://github-stat-opal.vercel.app/api/badge?text=Hive)
-![Kafka](https://github-stat-opal.vercel.app/api/badge?text=Kafka)
-![Sqoop](https://github-stat-opal.vercel.app/api/badge?text=Sqoop)
-![Pig](https://github-stat-opal.vercel.app/api/badge?text=Pig)
+![MySQL](https://github-stat-opal.vercel.app/api/badge?text=MySQL&logo=mysql)
+![PostgreSQL](https://github-stat-opal.vercel.app/api/badge?text=PostgreSQL&logo=postgresql)
+![SQLite](https://github-stat-opal.vercel.app/api/badge?text=SQLite&logo=sqlite)
+![MongoDB](https://github-stat-opal.vercel.app/api/badge?text=MongoDB&logo=mongodb)
+![SQL Server](https://github-stat-opal.vercel.app/api/badge?text=SQL%20Server&logo=microsoftsqlserver)
+![HBase](https://github-stat-opal.vercel.app/api/badge?text=HBase&logo=apachehbase)
+![Hadoop](https://github-stat-opal.vercel.app/api/badge?text=Hadoop&logo=apachehadoop)
+![Spark](https://github-stat-opal.vercel.app/api/badge?text=Spark&logo=apachespark)
+![Hive](https://github-stat-opal.vercel.app/api/badge?text=Hive&logo=apachehive)
+![Kafka](https://github-stat-opal.vercel.app/api/badge?text=Kafka&logo=apachekafka)
+![Sqoop](https://github-stat-opal.vercel.app/api/badge?text=Sqoop&logo=apache)
+![Pig](https://github-stat-opal.vercel.app/api/badge?text=Pig&logo=apache)
 
 <img alt="DevOps & Tools" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=DevOps%20%26%20Tools&width=320" />
 <br>
 
-![Docker](https://github-stat-opal.vercel.app/api/badge?text=Docker)
-![Jenkins](https://github-stat-opal.vercel.app/api/badge?text=Jenkins)
-![Git](https://github-stat-opal.vercel.app/api/badge?text=Git)
-![Linux](https://github-stat-opal.vercel.app/api/badge?text=Linux)
-![Red Hat OpenShift](https://github-stat-opal.vercel.app/api/badge?text=Red%20Hat%20OpenShift)
-![CI/CD](https://github-stat-opal.vercel.app/api/badge?text=CI/CD)
-![REST API](https://github-stat-opal.vercel.app/api/badge?text=REST%20API)
-![GraphQL](https://github-stat-opal.vercel.app/api/badge?text=GraphQL)
-![WebSocket](https://github-stat-opal.vercel.app/api/badge?text=WebSocket)
+![Docker](https://github-stat-opal.vercel.app/api/badge?text=Docker&logo=docker)
+![Jenkins](https://github-stat-opal.vercel.app/api/badge?text=Jenkins&logo=jenkins)
+![Git](https://github-stat-opal.vercel.app/api/badge?text=Git&logo=git)
+![Linux](https://github-stat-opal.vercel.app/api/badge?text=Linux&logo=linux)
+![Red Hat OpenShift](https://github-stat-opal.vercel.app/api/badge?text=Red%20Hat%20OpenShift&logo=redhatopenshift)
+![CI/CD](https://github-stat-opal.vercel.app/api/badge?text=CI/CD&logo=githubactions)
+![REST API](https://github-stat-opal.vercel.app/api/badge?text=REST%20API&logo=fastapi)
+![GraphQL](https://github-stat-opal.vercel.app/api/badge?text=GraphQL&logo=graphql)
+![WebSocket](https://github-stat-opal.vercel.app/api/badge?text=WebSocket&logo=socketdotio)
 
 <img alt="CMS & Platforms" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=CMS%20%26%20Platforms&width=320" />
 <br>
 
-![Odoo](https://github-stat-opal.vercel.app/api/badge?text=Odoo)
-![Moodle](https://github-stat-opal.vercel.app/api/badge?text=Moodle)
-![OpenStreetMap](https://github-stat-opal.vercel.app/api/badge?text=OpenStreetMap)
-![React Leaflet](https://github-stat-opal.vercel.app/api/badge?text=React%20Leaflet)
-![Android](https://github-stat-opal.vercel.app/api/badge?text=Android)
+![Odoo](https://github-stat-opal.vercel.app/api/badge?text=Odoo&logo=odoo)
+![Moodle](https://github-stat-opal.vercel.app/api/badge?text=Moodle&logo=moodle)
+![OpenStreetMap](https://github-stat-opal.vercel.app/api/badge?text=OpenStreetMap&logo=openstreetmap)
+![React Leaflet](https://github-stat-opal.vercel.app/api/badge?text=React%20Leaflet&logo=leaflet)
+![Android](https://github-stat-opal.vercel.app/api/badge?text=Android&logo=android)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&speed=60&deletingSpeed=25&color=FF3333&background=00000000&center=true&vCenter=true&width=780&lines=%5B%2B%5D+Cybersecurity%3A+Web+Security+%C2%B7+Network+%C2%B7+Recon+%C2%B7+Exploitation" />
@@ -144,55 +144,55 @@
 <img alt="Web Security" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Web%20Security&width=320" />
 <br>
 
-![SQLi](https://github-stat-opal.vercel.app/api/badge?text=SQLi)
-![XSS](https://github-stat-opal.vercel.app/api/badge?text=XSS)
-![SSRF](https://github-stat-opal.vercel.app/api/badge?text=SSRF)
-![CSRF](https://github-stat-opal.vercel.app/api/badge?text=CSRF)
-![IDOR](https://github-stat-opal.vercel.app/api/badge?text=IDOR)
-![LFI/RFI](https://github-stat-opal.vercel.app/api/badge?text=LFI/RFI)
-![SSTI](https://github-stat-opal.vercel.app/api/badge?text=SSTI)
-![XXE](https://github-stat-opal.vercel.app/api/badge?text=XXE)
-![RCE](https://github-stat-opal.vercel.app/api/badge?text=RCE)
-![Broken Access Control](https://github-stat-opal.vercel.app/api/badge?text=Broken%20Access%20Control)
-![Auth Flaws](https://github-stat-opal.vercel.app/api/badge?text=Auth%20Flaws)
-![File Upload](https://github-stat-opal.vercel.app/api/badge?text=File%20Upload)
-![Command Injection](https://github-stat-opal.vercel.app/api/badge?text=Command%20Injection)
+![SQLi](https://github-stat-opal.vercel.app/api/badge?text=SQLi&logo=sqlite)
+![XSS](https://github-stat-opal.vercel.app/api/badge?text=XSS&logo=html5)
+![SSRF](https://github-stat-opal.vercel.app/api/badge?text=SSRF&logo=curl)
+![CSRF](https://github-stat-opal.vercel.app/api/badge?text=CSRF&logo=owasp)
+![IDOR](https://github-stat-opal.vercel.app/api/badge?text=IDOR&logo=owasp)
+![LFI/RFI](https://github-stat-opal.vercel.app/api/badge?text=LFI/RFI&logo=files)
+![SSTI](https://github-stat-opal.vercel.app/api/badge?text=SSTI&logo=jinja)
+![XXE](https://github-stat-opal.vercel.app/api/badge?text=XXE&logo=xml)
+![RCE](https://github-stat-opal.vercel.app/api/badge?text=RCE&logo=gnubash)
+![Broken Access Control](https://github-stat-opal.vercel.app/api/badge?text=Broken%20Access%20Control&logo=owasp)
+![Auth Flaws](https://github-stat-opal.vercel.app/api/badge?text=Auth%20Flaws&logo=auth0)
+![File Upload](https://github-stat-opal.vercel.app/api/badge?text=File%20Upload&logo=files)
+![Command Injection](https://github-stat-opal.vercel.app/api/badge?text=Command%20Injection&logo=gnubash)
 
 <img alt="Network Pentest" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Network%20Pentest&width=320" />
 <br>
 
-![Recon](https://github-stat-opal.vercel.app/api/badge?text=Recon)
-![Enumeration](https://github-stat-opal.vercel.app/api/badge?text=Enumeration)
-![Lateral Movement](https://github-stat-opal.vercel.app/api/badge?text=Lateral%20Movement)
-![Active Directory](https://github-stat-opal.vercel.app/api/badge?text=Active%20Directory)
-![Privesc](https://github-stat-opal.vercel.app/api/badge?text=Privesc)
-![SMB](https://github-stat-opal.vercel.app/api/badge?text=SMB)
-![WinRM](https://github-stat-opal.vercel.app/api/badge?text=WinRM)
-![Impacket](https://github-stat-opal.vercel.app/api/badge?text=Impacket)
-![CrackMapExec](https://github-stat-opal.vercel.app/api/badge?text=CrackMapExec)
+![Recon](https://github-stat-opal.vercel.app/api/badge?text=Recon&logo=nmap)
+![Enumeration](https://github-stat-opal.vercel.app/api/badge?text=Enumeration&logo=nmap)
+![Lateral Movement](https://github-stat-opal.vercel.app/api/badge?text=Lateral%20Movement&logo=windowsterminal)
+![Active Directory](https://github-stat-opal.vercel.app/api/badge?text=Active%20Directory&logo=microsoft)
+![Privesc](https://github-stat-opal.vercel.app/api/badge?text=Privesc&logo=linux)
+![SMB](https://github-stat-opal.vercel.app/api/badge?text=SMB&logo=samba)
+![WinRM](https://github-stat-opal.vercel.app/api/badge?text=WinRM&logo=windows)
+![Impacket](https://github-stat-opal.vercel.app/api/badge?text=Impacket&logo=python)
+![CrackMapExec](https://github-stat-opal.vercel.app/api/badge?text=CrackMapExec&logo=python)
 ![Evil-WinRM](https://github-stat-opal.vercel.app/api/badge?text=Evil-WinRM)
 
 <img alt="Recon & Enumeration" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Recon%20%26%20Enumeration&width=320" />
 <br>
 
-![Nmap](https://github-stat-opal.vercel.app/api/badge?text=Nmap)
-![FFUF](https://github-stat-opal.vercel.app/api/badge?text=FFUF)
-![Gobuster](https://github-stat-opal.vercel.app/api/badge?text=Gobuster)
-![Dirb](https://github-stat-opal.vercel.app/api/badge?text=Dirb)
-![Dirbuster](https://github-stat-opal.vercel.app/api/badge?text=Dirbuster)
-![Subdomain Enum](https://github-stat-opal.vercel.app/api/badge?text=Subdomain%20Enum)
-![Fingerprinting](https://github-stat-opal.vercel.app/api/badge?text=Fingerprinting)
+![Nmap](https://github-stat-opal.vercel.app/api/badge?text=Nmap&logo=nmap)
+![FFUF](https://github-stat-opal.vercel.app/api/badge?text=FFUF&logo=go)
+![Gobuster](https://github-stat-opal.vercel.app/api/badge?text=Gobuster&logo=go)
+![Dirb](https://github-stat-opal.vercel.app/api/badge?text=Dirb&logo=gnu)
+![Dirbuster](https://github-stat-opal.vercel.app/api/badge?text=Dirbuster&logo=java)
+![Subdomain Enum](https://github-stat-opal.vercel.app/api/badge?text=Subdomain%20Enum&logo=internetcomputer)
+![Fingerprinting](https://github-stat-opal.vercel.app/api/badge?text=Fingerprinting&logo=wireshark)
 
 <img alt="Exploitation Tools" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Exploitation%20Tools&width=320" />
 <br>
 
-![Burp Suite](https://github-stat-opal.vercel.app/api/badge?text=Burp%20Suite)
-![Metasploit](https://github-stat-opal.vercel.app/api/badge?text=Metasploit)
-![SQLMap](https://github-stat-opal.vercel.app/api/badge?text=SQLMap)
-![Hydra](https://github-stat-opal.vercel.app/api/badge?text=Hydra)
-![John the Ripper](https://github-stat-opal.vercel.app/api/badge?text=John%20the%20Ripper)
-![Hashcat](https://github-stat-opal.vercel.app/api/badge?text=Hashcat)
-![OWASP ZAP](https://github-stat-opal.vercel.app/api/badge?text=OWASP%20ZAP)
+![Burp Suite](https://github-stat-opal.vercel.app/api/badge?text=Burp%20Suite&logo=burpsuite)
+![Metasploit](https://github-stat-opal.vercel.app/api/badge?text=Metasploit&logo=metasploit)
+![SQLMap](https://github-stat-opal.vercel.app/api/badge?text=SQLMap&logo=python)
+![Hydra](https://github-stat-opal.vercel.app/api/badge?text=Hydra&logo=gnubash)
+![John the Ripper](https://github-stat-opal.vercel.app/api/badge?text=John%20the%20Ripper&logo=gnubash)
+![Hashcat](https://github-stat-opal.vercel.app/api/badge?text=Hashcat&logo=hashnode)
+![OWASP ZAP](https://github-stat-opal.vercel.app/api/badge?text=OWASP%20ZAP&logo=owasp)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&speed=25&deletingSpeed=10&color=FF3333&background=00000000&center=true&vCenter=true&width=780&lines=%5B%2B%5D+Data+Science+%26+Geospatial%3A+Analytics+%C2%B7+ML+%C2%B7+Big+Data+%C2%B7+GIS" />
@@ -201,47 +201,47 @@
 <img alt="Analysis & ML" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Analysis%20%26%20ML&width=320" />
 <br>
 
-![Pandas](https://github-stat-opal.vercel.app/api/badge?text=Pandas)
-![NumPy](https://github-stat-opal.vercel.app/api/badge?text=NumPy)
+![Pandas](https://github-stat-opal.vercel.app/api/badge?text=Pandas&logo=pandas)
+![NumPy](https://github-stat-opal.vercel.app/api/badge?text=NumPy&logo=numpy)
 ![Scikit-learn](https://github-stat-opal.vercel.app/api/badge?text=Scikit-learn)
-![TensorFlow](https://github-stat-opal.vercel.app/api/badge?text=TensorFlow)
-![Regression](https://github-stat-opal.vercel.app/api/badge?text=Regression)
-![Classification](https://github-stat-opal.vercel.app/api/badge?text=Classification)
-![Clustering](https://github-stat-opal.vercel.app/api/badge?text=Clustering)
-![Feature Engineering](https://github-stat-opal.vercel.app/api/badge?text=Feature%20Engineering)
+![TensorFlow](https://github-stat-opal.vercel.app/api/badge?text=TensorFlow&logo=tensorflow)
+![Regression](https://github-stat-opal.vercel.app/api/badge?text=Regression&logo=scikitlearn)
+![Classification](https://github-stat-opal.vercel.app/api/badge?text=Classification&logo=scikitlearn)
+![Clustering](https://github-stat-opal.vercel.app/api/badge?text=Clustering&logo=scikitlearn)
+![Feature Engineering](https://github-stat-opal.vercel.app/api/badge?text=Feature%20Engineering&logo=pandas)
 
 <img alt="Big Data" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Big%20Data&width=320" />
 <br>
 
-![Hadoop](https://github-stat-opal.vercel.app/api/badge?text=Hadoop)
-![Apache Spark](https://github-stat-opal.vercel.app/api/badge?text=Apache%20Spark)
-![Apache Kafka](https://github-stat-opal.vercel.app/api/badge?text=Apache%20Kafka)
-![Apache Hive](https://github-stat-opal.vercel.app/api/badge?text=Apache%20Hive)
-![Apache Sqoop](https://github-stat-opal.vercel.app/api/badge?text=Apache%20Sqoop)
-![Apache Pig](https://github-stat-opal.vercel.app/api/badge?text=Apache%20Pig)
-![HBase](https://github-stat-opal.vercel.app/api/badge?text=HBase)
+![Hadoop](https://github-stat-opal.vercel.app/api/badge?text=Hadoop&logo=apachehadoop)
+![Apache Spark](https://github-stat-opal.vercel.app/api/badge?text=Apache%20Spark&logo=apachespark)
+![Apache Kafka](https://github-stat-opal.vercel.app/api/badge?text=Apache%20Kafka&logo=apachekafka)
+![Apache Hive](https://github-stat-opal.vercel.app/api/badge?text=Apache%20Hive&logo=apachehive)
+![Apache Sqoop](https://github-stat-opal.vercel.app/api/badge?text=Apache%20Sqoop&logo=apache)
+![Apache Pig](https://github-stat-opal.vercel.app/api/badge?text=Apache%20Pig&logo=apache)
+![HBase](https://github-stat-opal.vercel.app/api/badge?text=HBase&logo=apachehbase)
 
 <img alt="Statistics & Tools" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Statistics%20%26%20Tools&width=320" />
 <br>
 
-![RStudio](https://github-stat-opal.vercel.app/api/badge?text=RStudio)
-![MATLAB](https://github-stat-opal.vercel.app/api/badge?text=MATLAB)
-![SPSS](https://github-stat-opal.vercel.app/api/badge?text=SPSS)
-![Excel](https://github-stat-opal.vercel.app/api/badge?text=Excel)
-![Web Scraping](https://github-stat-opal.vercel.app/api/badge?text=Web%20Scraping)
-![Data Mining](https://github-stat-opal.vercel.app/api/badge?text=Data%20Mining)
-![Jupyter](https://github-stat-opal.vercel.app/api/badge?text=Jupyter)
+![RStudio](https://github-stat-opal.vercel.app/api/badge?text=RStudio&logo=rstudio)
+![MATLAB](https://github-stat-opal.vercel.app/api/badge?text=MATLAB&logo=mathworks)
+![SPSS](https://github-stat-opal.vercel.app/api/badge?text=SPSS&logo=ibm)
+![Excel](https://github-stat-opal.vercel.app/api/badge?text=Excel&logo=microsoftexcel)
+![Web Scraping](https://github-stat-opal.vercel.app/api/badge?text=Web%20Scraping&logo=python)
+![Data Mining](https://github-stat-opal.vercel.app/api/badge?text=Data%20Mining&logo=pandas)
+![Jupyter](https://github-stat-opal.vercel.app/api/badge?text=Jupyter&logo=jupyter)
 
 <img alt="Geospatial" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Geospatial&width=320" />
 <br>
 
-![QGIS](https://github-stat-opal.vercel.app/api/badge?text=QGIS)
-![ArcGIS](https://github-stat-opal.vercel.app/api/badge?text=ArcGIS)
-![Geoserver](https://github-stat-opal.vercel.app/api/badge?text=Geoserver)
-![Geonode](https://github-stat-opal.vercel.app/api/badge?text=Geonode)
-![ESA SNAP](https://github-stat-opal.vercel.app/api/badge?text=ESA%20SNAP)
-![OpenStreetMap](https://github-stat-opal.vercel.app/api/badge?text=OpenStreetMap)
-![React Leaflet](https://github-stat-opal.vercel.app/api/badge?text=React%20Leaflet)
+![QGIS](https://github-stat-opal.vercel.app/api/badge?text=QGIS&logo=qgis)
+![ArcGIS](https://github-stat-opal.vercel.app/api/badge?text=ArcGIS&logo=esri)
+![Geoserver](https://github-stat-opal.vercel.app/api/badge?text=Geoserver&logo=geoserver)
+![Geonode](https://github-stat-opal.vercel.app/api/badge?text=Geonode&logo=django)
+![ESA SNAP](https://github-stat-opal.vercel.app/api/badge?text=ESA%20SNAP&logo=esa)
+![OpenStreetMap](https://github-stat-opal.vercel.app/api/badge?text=OpenStreetMap&logo=openstreetmap)
+![React Leaflet](https://github-stat-opal.vercel.app/api/badge?text=React%20Leaflet&logo=leaflet)
 
 <p align="center"><img alt="" src="https://github-stat-opal.vercel.app/api/badge?kind=divider&width=720" /></p>
 
