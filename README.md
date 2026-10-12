@@ -58,6 +58,7 @@
 
 <img alt="Languages" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Languages&width=320" />
 <br>
+
 ![JavaScript](https://github-stat-opal.vercel.app/api/badge?text=JavaScript)
 ![TypeScript](https://github-stat-opal.vercel.app/api/badge?text=TypeScript)
 ![Python](https://github-stat-opal.vercel.app/api/badge?text=Python)
@@ -75,6 +76,7 @@
 
 <img alt="Frontend" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Frontend&width=320" />
 <br>
+
 ![React](https://github-stat-opal.vercel.app/api/badge?text=React)
 ![Next.js](https://github-stat-opal.vercel.app/api/badge?text=Next.js)
 ![Vue](https://github-stat-opal.vercel.app/api/badge?text=Vue)
@@ -87,6 +89,7 @@
 
 <img alt="Backend" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Backend&width=320" />
 <br>
+
 ![PHP](https://github-stat-opal.vercel.app/api/badge?text=PHP)
 ![Laravel](https://github-stat-opal.vercel.app/api/badge?text=Laravel)
 ![CodeIgniter](https://github-stat-opal.vercel.app/api/badge?text=CodeIgniter)
@@ -104,6 +107,7 @@
 
 <img alt="Database & Big Data" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Database%20%26%20Big%20Data&width=320" />
 <br>
+
 ![MySQL](https://github-stat-opal.vercel.app/api/badge?text=MySQL)
 ![PostgreSQL](https://github-stat-opal.vercel.app/api/badge?text=PostgreSQL)
 ![SQLite](https://github-stat-opal.vercel.app/api/badge?text=SQLite)
@@ -119,6 +123,7 @@
 
 <img alt="DevOps & Tools" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=DevOps%20%26%20Tools&width=320" />
 <br>
+
 ![Docker](https://github-stat-opal.vercel.app/api/badge?text=Docker)
 ![Jenkins](https://github-stat-opal.vercel.app/api/badge?text=Jenkins)
 ![Git](https://github-stat-opal.vercel.app/api/badge?text=Git)
@@ -131,6 +136,7 @@
 
 <img alt="CMS & Platforms" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=CMS%20%26%20Platforms&width=320" />
 <br>
+
 ![Odoo](https://github-stat-opal.vercel.app/api/badge?text=Odoo)
 ![Moodle](https://github-stat-opal.vercel.app/api/badge?text=Moodle)
 ![OpenStreetMap](https://github-stat-opal.vercel.app/api/badge?text=OpenStreetMap)
@@ -143,6 +149,7 @@
 
 <img alt="Web Security" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Web%20Security&width=320" />
 <br>
+
 ![SQLi](https://github-stat-opal.vercel.app/api/badge?text=SQLi)
 ![XSS](https://github-stat-opal.vercel.app/api/badge?text=XSS)
 ![SSRF](https://github-stat-opal.vercel.app/api/badge?text=SSRF)
@@ -159,6 +166,7 @@
 
 <img alt="Network Pentest" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Network%20Pentest&width=320" />
 <br>
+
 ![Recon](https://github-stat-opal.vercel.app/api/badge?text=Recon)
 ![Enumeration](https://github-stat-opal.vercel.app/api/badge?text=Enumeration)
 ![Lateral Movement](https://github-stat-opal.vercel.app/api/badge?text=Lateral%20Movement)
@@ -172,6 +180,7 @@
 
 <img alt="Recon & Enumeration" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Recon%20%26%20Enumeration&width=320" />
 <br>
+
 ![Nmap](https://github-stat-opal.vercel.app/api/badge?text=Nmap)
 ![FFUF](https://github-stat-opal.vercel.app/api/badge?text=FFUF)
 ![Gobuster](https://github-stat-opal.vercel.app/api/badge?text=Gobuster)
@@ -182,6 +191,7 @@
 
 <img alt="Exploitation Tools" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Exploitation%20Tools&width=320" />
 <br>
+
 ![Burp Suite](https://github-stat-opal.vercel.app/api/badge?text=Burp%20Suite)
 ![Metasploit](https://github-stat-opal.vercel.app/api/badge?text=Metasploit)
 ![SQLMap](https://github-stat-opal.vercel.app/api/badge?text=SQLMap)
@@ -196,6 +206,7 @@
 
 <img alt="Analysis & ML" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Analysis%20%26%20ML&width=320" />
 <br>
+
 ![Pandas](https://github-stat-opal.vercel.app/api/badge?text=Pandas)
 ![NumPy](https://github-stat-opal.vercel.app/api/badge?text=NumPy)
 ![Scikit-learn](https://github-stat-opal.vercel.app/api/badge?text=Scikit-learn)
@@ -207,6 +218,7 @@
 
 <img alt="Big Data" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Big%20Data&width=320" />
 <br>
+
 ![Hadoop](https://github-stat-opal.vercel.app/api/badge?text=Hadoop)
 ![Apache Spark](https://github-stat-opal.vercel.app/api/badge?text=Apache%20Spark)
 ![Apache Kafka](https://github-stat-opal.vercel.app/api/badge?text=Apache%20Kafka)
@@ -217,6 +229,7 @@
 
 <img alt="Statistics & Tools" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Statistics%20%26%20Tools&width=320" />
 <br>
+
 ![RStudio](https://github-stat-opal.vercel.app/api/badge?text=RStudio)
 ![MATLAB](https://github-stat-opal.vercel.app/api/badge?text=MATLAB)
 ![SPSS](https://github-stat-opal.vercel.app/api/badge?text=SPSS)
@@ -227,6 +240,7 @@
 
 <img alt="Geospatial" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Geospatial&width=320" />
 <br>
+
 ![QGIS](https://github-stat-opal.vercel.app/api/badge?text=QGIS)
 ![ArcGIS](https://github-stat-opal.vercel.app/api/badge?text=ArcGIS)
 ![Geoserver](https://github-stat-opal.vercel.app/api/badge?text=Geoserver)
