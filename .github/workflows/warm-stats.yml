@@ -1,0 +1,14 @@
+name: warm stats cache
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch:
+
+jobs:
+  warm:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Panaskan kartu stat (agar tidak cold start saat dimuat GitHub)
+        run: |
+          curl -s -m 60 -o /dev/null -w "all %{http_code} %{time_total}s\n" "https://github-stat-opal.vercel.app/api/all?v=3&username=zabbarfalih&include_all_commits=true"

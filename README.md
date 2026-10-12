@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img alt="github stats, streak, activity, top languages" src="https://github-stat-opal.vercel.app/api/all?v=2&username=zabbarfalih&include_all_commits=true" width="720" />
+  <img alt="github stats, streak, activity, top languages" src="https://github-stat-opal.vercel.app/api/all?v=3&username=zabbarfalih&include_all_commits=true" width="720" />
 </p>
 
 <p align="center"><img alt="" src="https://github-stat-opal.vercel.app/api/badge?kind=divider&width=720" /></p>
