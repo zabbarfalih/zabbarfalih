@@ -3,7 +3,7 @@
 <img src="./ascii-avatar.gif" width="540" alt="ascii avatar animated" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&speed=50&color=FF3333&background=00000000&center=true&vCenter=true&width=600&lines=zabbarfalih%40kali%3A~%24+whoami;zabbarfalih;zabbarfalih%40kali%3A~%24+id;uid%3D0(root)+groups%3D0(redteam);Building+exploits%2C+not+excuses." />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&speed=50&color=FF3333&background=00000000&center=true&vCenter=true&width=600&lines=zabbarfalih%40kali%3A~%24+whoami;zabbarfalih;zabbarfalih%40kali%3A~%24+id;uid%3D0(root)+groups%3D0(redteam);Building+exploits%2C+not+excuses." />
 </p>
 
 </div>
@@ -11,13 +11,13 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&speed=70&deletingSpeed=20&color=FF3333&background=00000000&center=true&vCenter=true&width=800&lines=zabbarfalih%40kali%3A~%24+nmap+-sV+-p-+zabbarfalih.dev;443%2Ftcp+open+https+fullstack-dev%2Fredteam;1337%2Ftcp+open+leet+status%3A+online;zabbarfalih%40kali%3A~%24+echo+%24MOTTO;%3E+build+things.+break+things.+fix+things." />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1500&speed=70&deletingSpeed=20&color=FF3333&background=00000000&center=true&vCenter=true&width=800&lines=zabbarfalih%40kali%3A~%24+nmap+-sV+-p-+zabbarfalih.dev;443%2Ftcp+open+https+fullstack-dev%2Fredteam;1337%2Ftcp+open+leet+status%3A+online;zabbarfalih%40kali%3A~%24+echo+%24MOTTO;%3E+build+things.+break+things.+fix+things." />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&speed=35&deletingSpeed=60&color=FF3333&background=00000000&center=true&vCenter=true&width=650&lines=zabbarfalih%40kali%3A~%24+.%2Fcontribution_snake.sh;%5B*%5D+devouring+contribution+graph...;%5B%2B%5D+snake+fed.+profile+secured." />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1500&speed=35&deletingSpeed=60&color=FF3333&background=00000000&center=true&vCenter=true&width=650&lines=zabbarfalih%40kali%3A~%24+.%2Fcontribution_snake.sh;%5B*%5D+devouring+contribution+graph...;%5B%2B%5D+snake+fed.+profile+secured." />
 </p>
 
 <picture>
@@ -29,38 +29,27 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&speed=90&deletingSpeed=30&color=FF3333&background=00000000&center=true&vCenter=true&width=750&lines=zabbarfalih%40kali%3A~%24+nmap+-sV+--script%3Dstats+github.com%2Fzabbarfalih;443%2Ftcp+open+fetching+commits%2C+langs%2C+streaks..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1500&speed=90&deletingSpeed=30&color=FF3333&background=00000000&center=true&vCenter=true&width=750&lines=zabbarfalih%40kali%3A~%24+nmap+-sV+--script%3Dstats+github.com%2Fzabbarfalih;443%2Ftcp+open+fetching+commits%2C+langs%2C+streaks..." />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api?username=zabbarfalih&show_icons=true&include_all_commits=true&hide=contribs&theme=dracula" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api?username=zabbarfalih&show_icons=true&include_all_commits=true&hide=contribs&theme=default" />
-    <img alt="github stats" src="https://github-readme-stats-fast-ten-omega.vercel.app/api?username=zabbarfalih&show_icons=true&include_all_commits=true&hide=contribs&theme=dracula" style="height:195px;width:390px;object-fit:cover;" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/streak?username=zabbarfalih&theme=dracula" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/streak?username=zabbarfalih&theme=default" />
-    <img alt="github streak" src="https://github-readme-stats-fast-ten-omega.vercel.app/api/streak?username=zabbarfalih&theme=dracula" style="height:195px;width:350px;object-fit:cover;" />
-  </picture>
+  <img alt="github stats" src="https://github-stat-opal.vercel.app/api?username=zabbarfalih&include_all_commits=true" width="49%" />
+  <img alt="github streak" src="https://github-stat-opal.vercel.app/api/streak?username=zabbarfalih" width="49%" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&langs_count=20&card_width=800&theme=dracula" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&langs_count=20&card_width=800&theme=default" />
-    <img alt="all languages" src="https://github-readme-stats-fast-ten-omega.vercel.app/api/top-langs/?username=zabbarfalih&layout=compact&langs_count=20&card_width=800&theme=dracula" />
-  </picture>
+  <img alt="github activity" src="https://github-stat-opal.vercel.app/api?card=activity&username=zabbarfalih&include_all_commits=true" width="49%" />
+  <img alt="top languages" src="https://github-stat-opal.vercel.app/api/top-langs/?username=zabbarfalih" width="49%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&speed=45&deletingSpeed=45&color=FF3333&background=00000000&center=true&vCenter=true&width=650&lines=zabbarfalih%40kali%3A~%24+ls+-la+%2Fusr%2Fshare%2Fskills%2F;drwxr-xr-x+fullstack-development%2F;drwxr-xr-x+cybersecurity%2F;drwxr-xr-x+data-science-geospatial%2F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1500&speed=45&deletingSpeed=45&color=FF3333&background=00000000&center=true&vCenter=true&width=650&lines=zabbarfalih%40kali%3A~%24+ls+-la+%2Fusr%2Fshare%2Fskills%2F;drwxr-xr-x+fullstack-development%2F;drwxr-xr-x+cybersecurity%2F;drwxr-xr-x+data-science-geospatial%2F" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&speed=40&deletingSpeed=15&color=FF3333&background=00000000&center=true&vCenter=true&width=780&lines=%5B%2B%5D+Fullstack+Development%3A+Frontend+%C2%B7+Backend+%C2%B7+Database+%C2%B7+DevOps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1200&speed=40&deletingSpeed=15&color=FF3333&background=00000000&center=true&vCenter=true&width=780&lines=%5B%2B%5D+Fullstack+Development%3A+Frontend+%C2%B7+Backend+%C2%B7+Database+%C2%B7+DevOps" />
 </p>
 
 <p align="center">
@@ -149,7 +138,7 @@
 ![Android](https://img.shields.io/badge/Android-8B0000?style=for-the-badge&logo=android&logoColor=FF3333)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&speed=60&deletingSpeed=25&color=FF3333&background=00000000&center=true&vCenter=true&width=780&lines=%5B%2B%5D+Cybersecurity%3A+Web+Security+%C2%B7+Network+%C2%B7+Recon+%C2%B7+Exploitation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1200&speed=60&deletingSpeed=25&color=FF3333&background=00000000&center=true&vCenter=true&width=780&lines=%5B%2B%5D+Cybersecurity%3A+Web+Security+%C2%B7+Network+%C2%B7+Recon+%C2%B7+Exploitation" />
 </p>
 
 <p align="center">
@@ -206,7 +195,7 @@
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-8B0000?style=for-the-badge&logo=owasp&logoColor=FF3333)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&speed=25&deletingSpeed=10&color=FF3333&background=00000000&center=true&vCenter=true&width=780&lines=%5B%2B%5D+Data+Science+%26+Geospatial%3A+Analytics+%C2%B7+ML+%C2%B7+Big+Data+%C2%B7+GIS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1200&speed=25&deletingSpeed=10&color=FF3333&background=00000000&center=true&vCenter=true&width=780&lines=%5B%2B%5D+Data+Science+%26+Geospatial%3A+Analytics+%C2%B7+ML+%C2%B7+Big+Data+%C2%B7+GIS" />
 </p>
 
 <p align="center">
@@ -257,10 +246,10 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&speed=100&deletingSpeed=10&color=FF3333&background=00000000&center=true&vCenter=true&width=450&lines=zabbarfalih%40kali%3A~%24+exit;logout;connection+closed." />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1500&speed=100&deletingSpeed=10&color=FF3333&background=00000000&center=true&vCenter=true&width=450&lines=zabbarfalih%40kali%3A~%24+exit;logout;connection+closed." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=24&pause=3000&speed=45&deletingSpeed=8&color=FF3333&background=00000000&center=true&vCenter=true&width=700&lines=There+is+no+patch+for+human+stupidity%2C+but+there's+always+a+workaround." />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=3000&speed=45&deletingSpeed=8&color=FF3333&background=00000000&center=true&vCenter=true&width=700&lines=There+is+no+patch+for+human+stupidity%2C+but+there's+always+a+workaround." />
 </p>
 
