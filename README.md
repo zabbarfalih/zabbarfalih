@@ -33,13 +33,19 @@
 </p>
 
 <p align="center">
-  <img alt="github stats" src="https://github-stat-opal.vercel.app/api?username=zabbarfalih&include_all_commits=true" width="49%" />
-  <img alt="github streak" src="https://github-stat-opal.vercel.app/api/streak?username=zabbarfalih" width="49%" />
+  <img alt="github stats" src="https://github-stat-opal.vercel.app/api?username=zabbarfalih&include_all_commits=true" width="720" />
 </p>
 
 <p align="center">
-  <img alt="github activity" src="https://github-stat-opal.vercel.app/api?card=activity&username=zabbarfalih&include_all_commits=true" width="49%" />
-  <img alt="top languages" src="https://github-stat-opal.vercel.app/api/top-langs/?username=zabbarfalih" width="49%" />
+  <img alt="github streak" src="https://github-stat-opal.vercel.app/api/streak?username=zabbarfalih" width="720" />
+</p>
+
+<p align="center">
+  <img alt="github activity" src="https://github-stat-opal.vercel.app/api?card=activity&username=zabbarfalih&include_all_commits=true" width="720" />
+</p>
+
+<p align="center">
+  <img alt="top languages" src="https://github-stat-opal.vercel.app/api/top-langs/?username=zabbarfalih" width="720" />
 </p>
 
 ---
