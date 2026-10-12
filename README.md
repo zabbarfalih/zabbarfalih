@@ -25,9 +25,9 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zabbarfalih/zabbarfalih/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zabbarfalih/zabbarfalih/output/github-contribution-grid-snake.svg" />
-  <img alt="github snake" src="https://raw.githubusercontent.com/zabbarfalih/zabbarfalih/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zabbarfalih/zabbarfalih/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zabbarfalih/zabbarfalih/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github snake" src="https://raw.githubusercontent.com/zabbarfalih/zabbarfalih/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <p align="center"><img alt="" src="https://github-stat-opal.vercel.app/api/badge?kind=divider&width=720" /></p>
@@ -37,19 +37,7 @@
 </p>
 
 <p align="center">
-  <img alt="github stats" src="https://github-stat-opal.vercel.app/api?v=9&username=zabbarfalih&include_all_commits=true" width="720" />
-</p>
-
-<p align="center">
-  <img alt="github streak" src="https://github-stat-opal.vercel.app/api/streak?v=9&username=zabbarfalih" width="720" />
-</p>
-
-<p align="center">
-  <img alt="github activity" src="https://github-stat-opal.vercel.app/api?v=9&card=activity&username=zabbarfalih&include_all_commits=true" width="720" />
-</p>
-
-<p align="center">
-  <img alt="top languages" src="https://github-stat-opal.vercel.app/api/top-langs/?v=9&username=zabbarfalih" width="720" />
+  <img alt="github stats, streak, activity, top languages" src="https://github-stat-opal.vercel.app/api/all?v=1&username=zabbarfalih&include_all_commits=true" width="640" />
 </p>
 
 <p align="center"><img alt="" src="https://github-stat-opal.vercel.app/api/badge?kind=divider&width=720" /></p>
