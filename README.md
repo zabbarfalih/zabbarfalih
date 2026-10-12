@@ -50,9 +50,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&speed=40&deletingSpeed=15&color=FF3333&background=00000000&center=true&vCenter=true&width=780&lines=%5B%2B%5D+Fullstack+Development%3A+Frontend+%C2%B7+Backend+%C2%B7+Database+%C2%B7+DevOps" />
 </p>
 
-<img alt="Languages" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Languages&width=320" />
-<br>
+<p align="center">
+  <img alt="Languages" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Languages&width=320" />
+</p>
 
+<p align="center">
 ![JavaScript](https://github-stat-opal.vercel.app/api/badge?text=JavaScript&logo=javascript)
 ![TypeScript](https://github-stat-opal.vercel.app/api/badge?text=TypeScript&logo=typescript)
 ![Python](https://github-stat-opal.vercel.app/api/badge?text=Python&logo=python)
@@ -67,10 +69,13 @@
 ![Dart](https://github-stat-opal.vercel.app/api/badge?text=Dart&logo=dart)
 ![Pascal](https://github-stat-opal.vercel.app/api/badge?text=Pascal&logo=delphi)
 ![Assembly](https://github-stat-opal.vercel.app/api/badge?text=Assembly&logo=assemblyscript)
+</p>
 
-<img alt="Frontend" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Frontend&width=320" />
-<br>
+<p align="center">
+  <img alt="Frontend" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Frontend&width=320" />
+</p>
 
+<p align="center">
 ![React](https://github-stat-opal.vercel.app/api/badge?text=React&logo=react)
 ![Next.js](https://github-stat-opal.vercel.app/api/badge?text=Next.js&logo=nextdotjs)
 ![Vue](https://github-stat-opal.vercel.app/api/badge?text=Vue&logo=vuedotjs)
@@ -80,10 +85,13 @@
 ![jQuery](https://github-stat-opal.vercel.app/api/badge?text=jQuery&logo=jquery)
 ![HTML5](https://github-stat-opal.vercel.app/api/badge?text=HTML5&logo=html5)
 ![CSS3](https://github-stat-opal.vercel.app/api/badge?text=CSS3&logo=css3)
+</p>
 
-<img alt="Backend" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Backend&width=320" />
-<br>
+<p align="center">
+  <img alt="Backend" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Backend&width=320" />
+</p>
 
+<p align="center">
 ![PHP](https://github-stat-opal.vercel.app/api/badge?text=PHP&logo=php)
 ![Laravel](https://github-stat-opal.vercel.app/api/badge?text=Laravel&logo=laravel)
 ![CodeIgniter](https://github-stat-opal.vercel.app/api/badge?text=CodeIgniter&logo=codeigniter)
@@ -98,10 +106,13 @@
 ![Fiber](https://github-stat-opal.vercel.app/api/badge?text=Fiber&logo=go)
 ![Spring Boot](https://github-stat-opal.vercel.app/api/badge?text=Spring%20Boot&logo=springboot)
 ![.NET](https://github-stat-opal.vercel.app/api/badge?text=.NET&logo=dotnet)
+</p>
 
-<img alt="Database & Big Data" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Database%20%26%20Big%20Data&width=320" />
-<br>
+<p align="center">
+  <img alt="Database & Big Data" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Database%20%26%20Big%20Data&width=320" />
+</p>
 
+<p align="center">
 ![MySQL](https://github-stat-opal.vercel.app/api/badge?text=MySQL&logo=mysql)
 ![PostgreSQL](https://github-stat-opal.vercel.app/api/badge?text=PostgreSQL&logo=postgresql)
 ![SQLite](https://github-stat-opal.vercel.app/api/badge?text=SQLite&logo=sqlite)
@@ -114,10 +125,13 @@
 ![Kafka](https://github-stat-opal.vercel.app/api/badge?text=Kafka&logo=apachekafka)
 ![Sqoop](https://github-stat-opal.vercel.app/api/badge?text=Sqoop&logo=apache)
 ![Pig](https://github-stat-opal.vercel.app/api/badge?text=Pig&logo=apache)
+</p>
 
-<img alt="DevOps & Tools" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=DevOps%20%26%20Tools&width=320" />
-<br>
+<p align="center">
+  <img alt="DevOps & Tools" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=DevOps%20%26%20Tools&width=320" />
+</p>
 
+<p align="center">
 ![Docker](https://github-stat-opal.vercel.app/api/badge?text=Docker&logo=docker)
 ![Jenkins](https://github-stat-opal.vercel.app/api/badge?text=Jenkins&logo=jenkins)
 ![Git](https://github-stat-opal.vercel.app/api/badge?text=Git&logo=git)
@@ -127,23 +141,29 @@
 ![REST API](https://github-stat-opal.vercel.app/api/badge?text=REST%20API&logo=fastapi)
 ![GraphQL](https://github-stat-opal.vercel.app/api/badge?text=GraphQL&logo=graphql)
 ![WebSocket](https://github-stat-opal.vercel.app/api/badge?text=WebSocket&logo=socketdotio)
+</p>
 
-<img alt="CMS & Platforms" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=CMS%20%26%20Platforms&width=320" />
-<br>
+<p align="center">
+  <img alt="CMS & Platforms" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=CMS%20%26%20Platforms&width=320" />
+</p>
 
+<p align="center">
 ![Odoo](https://github-stat-opal.vercel.app/api/badge?text=Odoo&logo=odoo)
 ![Moodle](https://github-stat-opal.vercel.app/api/badge?text=Moodle&logo=moodle)
 ![OpenStreetMap](https://github-stat-opal.vercel.app/api/badge?text=OpenStreetMap&logo=openstreetmap)
 ![React Leaflet](https://github-stat-opal.vercel.app/api/badge?text=React%20Leaflet&logo=leaflet)
 ![Android](https://github-stat-opal.vercel.app/api/badge?text=Android&logo=android)
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&speed=60&deletingSpeed=25&color=FF3333&background=00000000&center=true&vCenter=true&width=780&lines=%5B%2B%5D+Cybersecurity%3A+Web+Security+%C2%B7+Network+%C2%B7+Recon+%C2%B7+Exploitation" />
 </p>
 
-<img alt="Web Security" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Web%20Security&width=320" />
-<br>
+<p align="center">
+  <img alt="Web Security" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Web%20Security&width=320" />
+</p>
 
+<p align="center">
 ![SQLi](https://github-stat-opal.vercel.app/api/badge?text=SQLi&logo=sqlite)
 ![XSS](https://github-stat-opal.vercel.app/api/badge?text=XSS&logo=html5)
 ![SSRF](https://github-stat-opal.vercel.app/api/badge?text=SSRF&logo=curl)
@@ -157,10 +177,13 @@
 ![Auth Flaws](https://github-stat-opal.vercel.app/api/badge?text=Auth%20Flaws&logo=auth0)
 ![File Upload](https://github-stat-opal.vercel.app/api/badge?text=File%20Upload&logo=files)
 ![Command Injection](https://github-stat-opal.vercel.app/api/badge?text=Command%20Injection&logo=gnubash)
+</p>
 
-<img alt="Network Pentest" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Network%20Pentest&width=320" />
-<br>
+<p align="center">
+  <img alt="Network Pentest" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Network%20Pentest&width=320" />
+</p>
 
+<p align="center">
 ![Recon](https://github-stat-opal.vercel.app/api/badge?text=Recon&logo=nmap)
 ![Enumeration](https://github-stat-opal.vercel.app/api/badge?text=Enumeration&logo=nmap)
 ![Lateral Movement](https://github-stat-opal.vercel.app/api/badge?text=Lateral%20Movement&logo=windowsterminal)
@@ -170,11 +193,14 @@
 ![WinRM](https://github-stat-opal.vercel.app/api/badge?text=WinRM&logo=windows)
 ![Impacket](https://github-stat-opal.vercel.app/api/badge?text=Impacket&logo=python)
 ![CrackMapExec](https://github-stat-opal.vercel.app/api/badge?text=CrackMapExec&logo=python)
-![Evil-WinRM](https://github-stat-opal.vercel.app/api/badge?text=Evil-WinRM)
+![Evil-WinRM](https://github-stat-opal.vercel.app/api/badge?text=Evil-WinRM&logo=gnubash)
+</p>
 
-<img alt="Recon & Enumeration" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Recon%20%26%20Enumeration&width=320" />
-<br>
+<p align="center">
+  <img alt="Recon & Enumeration" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Recon%20%26%20Enumeration&width=320" />
+</p>
 
+<p align="center">
 ![Nmap](https://github-stat-opal.vercel.app/api/badge?text=Nmap&logo=nmap)
 ![FFUF](https://github-stat-opal.vercel.app/api/badge?text=FFUF&logo=go)
 ![Gobuster](https://github-stat-opal.vercel.app/api/badge?text=Gobuster&logo=go)
@@ -182,10 +208,13 @@
 ![Dirbuster](https://github-stat-opal.vercel.app/api/badge?text=Dirbuster&logo=java)
 ![Subdomain Enum](https://github-stat-opal.vercel.app/api/badge?text=Subdomain%20Enum&logo=internetcomputer)
 ![Fingerprinting](https://github-stat-opal.vercel.app/api/badge?text=Fingerprinting&logo=wireshark)
+</p>
 
-<img alt="Exploitation Tools" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Exploitation%20Tools&width=320" />
-<br>
+<p align="center">
+  <img alt="Exploitation Tools" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Exploitation%20Tools&width=320" />
+</p>
 
+<p align="center">
 ![Burp Suite](https://github-stat-opal.vercel.app/api/badge?text=Burp%20Suite&logo=burpsuite)
 ![Metasploit](https://github-stat-opal.vercel.app/api/badge?text=Metasploit&logo=metasploit)
 ![SQLMap](https://github-stat-opal.vercel.app/api/badge?text=SQLMap&logo=python)
@@ -193,26 +222,32 @@
 ![John the Ripper](https://github-stat-opal.vercel.app/api/badge?text=John%20the%20Ripper&logo=gnubash)
 ![Hashcat](https://github-stat-opal.vercel.app/api/badge?text=Hashcat&logo=hashnode)
 ![OWASP ZAP](https://github-stat-opal.vercel.app/api/badge?text=OWASP%20ZAP&logo=owasp)
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&speed=25&deletingSpeed=10&color=FF3333&background=00000000&center=true&vCenter=true&width=780&lines=%5B%2B%5D+Data+Science+%26+Geospatial%3A+Analytics+%C2%B7+ML+%C2%B7+Big+Data+%C2%B7+GIS" />
 </p>
 
-<img alt="Analysis & ML" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Analysis%20%26%20ML&width=320" />
-<br>
+<p align="center">
+  <img alt="Analysis & ML" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Analysis%20%26%20ML&width=320" />
+</p>
 
+<p align="center">
 ![Pandas](https://github-stat-opal.vercel.app/api/badge?text=Pandas&logo=pandas)
 ![NumPy](https://github-stat-opal.vercel.app/api/badge?text=NumPy&logo=numpy)
-![Scikit-learn](https://github-stat-opal.vercel.app/api/badge?text=Scikit-learn)
+![Scikit-learn](https://github-stat-opal.vercel.app/api/badge?text=Scikit-learn&logo=scikitlearn)
 ![TensorFlow](https://github-stat-opal.vercel.app/api/badge?text=TensorFlow&logo=tensorflow)
 ![Regression](https://github-stat-opal.vercel.app/api/badge?text=Regression&logo=scikitlearn)
 ![Classification](https://github-stat-opal.vercel.app/api/badge?text=Classification&logo=scikitlearn)
 ![Clustering](https://github-stat-opal.vercel.app/api/badge?text=Clustering&logo=scikitlearn)
 ![Feature Engineering](https://github-stat-opal.vercel.app/api/badge?text=Feature%20Engineering&logo=pandas)
+</p>
 
-<img alt="Big Data" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Big%20Data&width=320" />
-<br>
+<p align="center">
+  <img alt="Big Data" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Big%20Data&width=320" />
+</p>
 
+<p align="center">
 ![Hadoop](https://github-stat-opal.vercel.app/api/badge?text=Hadoop&logo=apachehadoop)
 ![Apache Spark](https://github-stat-opal.vercel.app/api/badge?text=Apache%20Spark&logo=apachespark)
 ![Apache Kafka](https://github-stat-opal.vercel.app/api/badge?text=Apache%20Kafka&logo=apachekafka)
@@ -220,10 +255,13 @@
 ![Apache Sqoop](https://github-stat-opal.vercel.app/api/badge?text=Apache%20Sqoop&logo=apache)
 ![Apache Pig](https://github-stat-opal.vercel.app/api/badge?text=Apache%20Pig&logo=apache)
 ![HBase](https://github-stat-opal.vercel.app/api/badge?text=HBase&logo=apachehbase)
+</p>
 
-<img alt="Statistics & Tools" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Statistics%20%26%20Tools&width=320" />
-<br>
+<p align="center">
+  <img alt="Statistics & Tools" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Statistics%20%26%20Tools&width=320" />
+</p>
 
+<p align="center">
 ![RStudio](https://github-stat-opal.vercel.app/api/badge?text=RStudio&logo=rstudio)
 ![MATLAB](https://github-stat-opal.vercel.app/api/badge?text=MATLAB&logo=mathworks)
 ![SPSS](https://github-stat-opal.vercel.app/api/badge?text=SPSS&logo=ibm)
@@ -231,10 +269,13 @@
 ![Web Scraping](https://github-stat-opal.vercel.app/api/badge?text=Web%20Scraping&logo=python)
 ![Data Mining](https://github-stat-opal.vercel.app/api/badge?text=Data%20Mining&logo=pandas)
 ![Jupyter](https://github-stat-opal.vercel.app/api/badge?text=Jupyter&logo=jupyter)
+</p>
 
-<img alt="Geospatial" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Geospatial&width=320" />
-<br>
+<p align="center">
+  <img alt="Geospatial" src="https://github-stat-opal.vercel.app/api/badge?kind=title&text=Geospatial&width=320" />
+</p>
 
+<p align="center">
 ![QGIS](https://github-stat-opal.vercel.app/api/badge?text=QGIS&logo=qgis)
 ![ArcGIS](https://github-stat-opal.vercel.app/api/badge?text=ArcGIS&logo=esri)
 ![Geoserver](https://github-stat-opal.vercel.app/api/badge?text=Geoserver&logo=geoserver)
@@ -242,6 +283,7 @@
 ![ESA SNAP](https://github-stat-opal.vercel.app/api/badge?text=ESA%20SNAP&logo=esa)
 ![OpenStreetMap](https://github-stat-opal.vercel.app/api/badge?text=OpenStreetMap&logo=openstreetmap)
 ![React Leaflet](https://github-stat-opal.vercel.app/api/badge?text=React%20Leaflet&logo=leaflet)
+</p>
 
 <p align="center"><img alt="" src="https://github-stat-opal.vercel.app/api/badge?kind=divider&width=720" /></p>
 
